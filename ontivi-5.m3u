@@ -1,0 +1,2074 @@
+#EXTM3U
+#EXTINF:0 tvg-id="3" tvg-logo="http://epg.cdntv.online/img/3.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/3.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", НТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/4.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Пятый канал
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/5.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Россия К
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/6.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Карусель
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/8.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ОТР
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/9.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТВ Центр
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/10.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Рен ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/11.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", СТС
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/13.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Домашний
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/14.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТВ3
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/15.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Пятница!
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/16.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Звезда
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/17.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="18" tvg-logo="http://epg.cdntv.online/img/18.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Мир
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/18.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТНТ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/19.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="20" tvg-logo="http://epg.cdntv.online/img/20.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Муз ТВ
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/20.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="21" tvg-logo="http://epg.cdntv.online/img/21.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Че
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/21.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="28" tvg-logo="http://epg.cdntv.online/img/28.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТНТ4 HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/28.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Первый канал HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/29.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="30" tvg-logo="http://epg.cdntv.online/img/30.png" group-title="Общие", Пятый канал (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/30.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="31" tvg-logo="http://epg.cdntv.online/img/31.png" group-title="Общие", Рен ТВ (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/31.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="34" tvg-logo="http://epg.cdntv.online/img/34.png" group-title="Общие", Россия К (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/34.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="35" tvg-logo="http://epg.cdntv.online/img/35.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Пятница! HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/35.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="36" tvg-logo="http://epg.cdntv.online/img/36.png" group-title="Общие", ТВ Центр (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/36.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Eurosport 1 HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/38.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Eurosport 2 HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/40.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="41" tvg-logo="http://epg.cdntv.online/img/41.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Extreme sports
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/41.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="43" tvg-logo="http://epg.cdntv.online/img/43.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Viju Sport HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/43.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="44" tvg-logo="http://epg.cdntv.online/img/44.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Бокс ТВ
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/44.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="45" tvg-logo="http://epg.cdntv.online/img/45.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", КХЛ
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/45.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="46" tvg-logo="http://epg.cdntv.online/img/46.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", КХЛ Prime
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/46.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="47" tvg-logo="http://epg.cdntv.online/img/47.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", МАТЧ! Арена HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/47.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="48" tvg-logo="http://epg.cdntv.online/img/48.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/48.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="49" tvg-logo="http://epg.cdntv.online/img/49.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Арена
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/49.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="50" tvg-logo="http://epg.cdntv.online/img/50.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Боец
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/50.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="53" tvg-logo="http://epg.cdntv.online/img/53.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Премьер HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/53.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="54" tvg-logo="http://epg.cdntv.online/img/54.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Страна
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/54.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="55" tvg-logo="http://epg.cdntv.online/img/55.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 1 HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/55.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="56" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 2 HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/56.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="57" tvg-logo="http://epg.cdntv.online/img/57.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 3 HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/57.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="58" tvg-logo="http://epg.cdntv.online/img/58.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Старт
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/58.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="59" tvg-logo="http://epg.cdntv.online/img/59.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Футбол
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/59.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="63" tvg-logo="http://epg.cdntv.online/img/63.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV Classic
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/63.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="64" tvg-logo="http://epg.cdntv.online/img/64.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV hits
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/64.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="65" tvg-logo="http://epg.cdntv.online/img/65.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV Русский хит
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/65.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="66" tvg-logo="http://epg.cdntv.online/img/66.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/66.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="67" tvg-logo="http://epg.cdntv.online/img/67.png" group-title="МУЗЫКА", Europa Plus
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/67.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="74" tvg-logo="http://epg.cdntv.online/img/74.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", RETRO MUSIC TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/74.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="75" tvg-logo="http://epg.cdntv.online/img/75.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", RU.TV
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/75.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="76" tvg-logo="http://epg.cdntv.online/img/76.png" group-title="МУЗЫКА", Russian MusicBox
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/76.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="77" tvg-logo="http://epg.cdntv.online/img/77.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Song TV Армения
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/77.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="78" tvg-logo="http://epg.cdntv.online/img/78.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Song TV Россия
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/78.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="79" tvg-logo="http://epg.cdntv.online/img/79.png" group-title="МУЗЫКА", MTV 80s
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/79.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="81" tvg-logo="http://epg.cdntv.online/img/81.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Ля Минор
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/81.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="82" tvg-logo="http://epg.cdntv.online/img/82.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Матур ТВ HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/82.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="84" tvg-logo="http://epg.cdntv.online/img/84.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", О2ТВ
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/84.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="85" tvg-logo="http://epg.cdntv.online/img/85.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", ТНТ Music
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/85.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="86" tvg-logo="http://epg.cdntv.online/img/86.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Шансон-TB
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/86.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="87" tvg-logo="http://epg.cdntv.online/img/87.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", AMEDIA HIT HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/87.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="88" tvg-logo="http://epg.cdntv.online/img/88.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Amedia Premium HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/88.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="89" tvg-logo="http://epg.cdntv.online/img/89.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", CINEMA
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/89.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="90" tvg-logo="http://epg.cdntv.online/img/90.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", FilmBox
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/90.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="91" tvg-logo="http://epg.cdntv.online/img/91.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Filmbox Arthouse
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/91.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="92" tvg-logo="http://epg.cdntv.online/img/92.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Fox
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/92.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="93" tvg-logo="http://epg.cdntv.online/img/93.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Fox HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/93.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="97" tvg-logo="http://epg.cdntv.online/img/97.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", .Red
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/97.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="99" tvg-logo="http://epg.cdntv.online/img/99.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Sony Sci-Fi
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/99.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="100" tvg-logo="http://epg.cdntv.online/img/100.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", TV XXI
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/100.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="101" tvg-logo="http://epg.cdntv.online/img/101.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000 Action
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/101.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="102" tvg-logo="http://epg.cdntv.online/img/102.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000 Русское
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/102.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="103" tvg-logo="http://epg.cdntv.online/img/103.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/103.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="104" tvg-logo="http://epg.cdntv.online/img/104.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju+ comedy HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/104.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="105" tvg-logo="http://epg.cdntv.online/img/105.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju+ megahit HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/105.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="106" tvg-logo="http://epg.cdntv.online/img/106.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju+ premiere HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/106.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="107" tvg-logo="http://epg.cdntv.online/img/107.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju+ serial HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/107.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="108" tvg-logo="http://epg.cdntv.online/img/108.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ZEE TV
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/108.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="109" tvg-logo="http://epg.cdntv.online/img/109.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", A1
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/109.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="111" tvg-logo="http://epg.cdntv.online/img/111.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Дом Кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/111.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="112" tvg-logo="http://epg.cdntv.online/img/112.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Дом кино Премиум HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/112.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="113" tvg-logo="http://epg.cdntv.online/img/113.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Еврокино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/113.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="114" tvg-logo="http://epg.cdntv.online/img/114.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Иллюзион+
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/114.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="115" tvg-logo="http://epg.cdntv.online/img/115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Индийское кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/115.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="116" tvg-logo="http://epg.cdntv.online/img/116.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Калейдоскоп ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/116.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="117" tvg-logo="http://epg.cdntv.online/img/117.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кино ТВ HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/117.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="118" tvg-logo="http://epg.cdntv.online/img/118.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", КиноХит
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/118.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="119" tvg-logo="http://epg.cdntv.online/img/119.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кинокомедия
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/119.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="120" tvg-logo="http://epg.cdntv.online/img/120.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Киномикс
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/120.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="121" tvg-logo="http://epg.cdntv.online/img/121.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кинопремьера HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/121.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="122" tvg-logo="http://epg.cdntv.online/img/122.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Киносвидание
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/122.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="123" tvg-logo="http://epg.cdntv.online/img/123.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Киносемья
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/123.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="124" tvg-logo="http://epg.cdntv.online/img/124.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Классика Кино HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/124.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="127" tvg-logo="http://epg.cdntv.online/img/127.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Мир сериала
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/127.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="128" tvg-logo="http://epg.cdntv.online/img/128.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Мужское Кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/128.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="129" tvg-logo="http://epg.cdntv.online/img/129.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", НТВ сериал
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/129.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="130" tvg-logo="http://epg.cdntv.online/img/130.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", НТВ хит
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/130.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="131" tvg-logo="http://epg.cdntv.online/img/131.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Настоящее страшное ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/131.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="132" tvg-logo="http://epg.cdntv.online/img/132.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Наше новое кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/132.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="135" tvg-logo="http://epg.cdntv.online/img/135.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Русский Бестселлер
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/135.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="136" tvg-logo="http://epg.cdntv.online/img/136.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Русский Роман
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/136.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="137" tvg-logo="http://epg.cdntv.online/img/137.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Русский детектив
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/137.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="138" tvg-logo="http://epg.cdntv.online/img/138.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Русский иллюзион
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/138.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="139" tvg-logo="http://epg.cdntv.online/img/139.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Советское кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/139.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="140" tvg-logo="http://epg.cdntv.online/img/140.png" group-title="Общие", Суббота! (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/140.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="141" tvg-logo="http://epg.cdntv.online/img/141.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Cartoon Network
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/141.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="142" tvg-logo="http://epg.cdntv.online/img/142.png" group-title="Общие", Солнце (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/142.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="143" tvg-logo="http://epg.cdntv.online/img/143.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Солнце
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/143.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="145" tvg-logo="http://epg.cdntv.online/img/145.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Nick Jr
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/145.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="146" tvg-logo="http://epg.cdntv.online/img/146.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Nickelodeon
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/146.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="149" tvg-logo="http://epg.cdntv.online/img/149.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Детский мир
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/149.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Общие", Карусель (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/152.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="153" tvg-logo="http://epg.cdntv.online/img/153.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", МУЛЬТ
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/153.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="154" tvg-logo="http://epg.cdntv.online/img/154.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Мама
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/154.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="156" tvg-logo="http://epg.cdntv.online/img/156.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Мультиландия HD
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/156.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="157" tvg-logo="http://epg.cdntv.online/img/157.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Мультимания
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/157.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="158" tvg-logo="http://epg.cdntv.online/img/158.png" group-title="Детки ТВ", Мультимузыка
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/158.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="159" tvg-logo="http://epg.cdntv.online/img/159.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", О!
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/159.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="161" tvg-logo="http://epg.cdntv.online/img/161.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Рыжий
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/161.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="162" tvg-logo="http://epg.cdntv.online/img/162.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", СТС Kids
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/162.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="163" tvg-logo="http://epg.cdntv.online/img/163.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Сказки зайки
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/163.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="164" tvg-logo="http://epg.cdntv.online/img/164.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Смайлик ТВ
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/164.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="165" tvg-logo="http://epg.cdntv.online/img/165.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Советские мультфильмы
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/165.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="166" tvg-logo="http://epg.cdntv.online/img/166.png" group-title="Общие", 2x2 (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/166.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="167" tvg-logo="http://epg.cdntv.online/img/167.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ACB TV
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/167.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="169" tvg-logo="http://epg.cdntv.online/img/169.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", TLC
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/169.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="170" tvg-logo="http://epg.cdntv.online/img/170.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", TLC HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/170.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="172" tvg-logo="http://epg.cdntv.online/img/172.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Ностальгия
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/172.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="173" tvg-logo="http://epg.cdntv.online/img/173.png" group-title="Общие", Пятница! (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/173.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="175" tvg-logo="http://epg.cdntv.online/img/175.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Русский Экстрим
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/175.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="176" tvg-logo="http://epg.cdntv.online/img/176.png" group-title="Общие", СТС (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/176.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="178" tvg-logo="http://epg.cdntv.online/img/178.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", СТС love
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/178.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="179" tvg-logo="http://epg.cdntv.online/img/179.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Сарафан
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/179.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="180" tvg-logo="http://epg.cdntv.online/img/180.png" group-title="Общие", ТВ3 (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/180.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="181" tvg-logo="http://epg.cdntv.online/img/181.png" group-title="Общие", ТНТ (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/181.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="182" tvg-logo="http://epg.cdntv.online/img/182.png" group-title="Общие", ТНТ4 (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/182.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="183" tvg-logo="http://epg.cdntv.online/img/183.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Театр
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/183.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="184" tvg-logo="http://epg.cdntv.online/img/184.png" group-title="Общие", Че (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/184.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="185" tvg-logo="http://epg.cdntv.online/img/185.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Ю
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/185.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="189" tvg-logo="http://epg.cdntv.online/img/189.png" group-title="Регионал", 49 канал (Новосибирск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/189.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="191" tvg-logo="http://epg.cdntv.online/img/191.png" group-title="Регионал", 8 канал ( Новосибирск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/191.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="195" tvg-logo="http://epg.cdntv.online/img/195.png" group-title="Регионал", Аист (Иркутск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/195.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="196" tvg-logo="http://epg.cdntv.online/img/196.png" group-title="Регионал", Алмазный край
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/196.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="201" tvg-logo="http://epg.cdntv.online/img/201.png" group-title="Регионал", Астрахань 24 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/201.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="202" tvg-logo="http://epg.cdntv.online/img/202.png" group-title="Регионал", БСТ (Челябинск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/202.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="205" tvg-logo="http://epg.cdntv.online/img/205.png" group-title="Регионал", Брянская Губерния HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/205.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="206" tvg-logo="http://epg.cdntv.online/img/206.png" group-title="Регионал", Ветта 24 (Пермь)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/206.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="207" tvg-logo="http://epg.cdntv.online/img/207.png" group-title="Регионал", Восток 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/207.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="209" tvg-logo="http://epg.cdntv.online/img/209.png" group-title="Регионал", Дон 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/209.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="210" tvg-logo="http://epg.cdntv.online/img/210.png" group-title="Регионал", Дума ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/210.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="212" tvg-logo="http://epg.cdntv.online/img/212.png" group-title="Регионал", Енисей
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/212.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="214" tvg-logo="http://epg.cdntv.online/img/214.png" group-title="Регионал", 78 канал (Санкт-Петербург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/214.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="216" tvg-logo="http://epg.cdntv.online/img/216.png" group-title="Регионал", Крик-ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/216.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="218" tvg-logo="http://epg.cdntv.online/img/218.png" group-title="Регионал", Кубань 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/218.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="219" tvg-logo="http://epg.cdntv.online/img/219.png" group-title="Регионал", Кузбасс 1
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/219.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="220" tvg-logo="http://epg.cdntv.online/img/220.png" group-title="Регионал", Курай
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/220.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="221" tvg-logo="http://epg.cdntv.online/img/221.png" group-title="Регионал", Липецкое время
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/221.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="222" tvg-logo="http://epg.cdntv.online/img/222.png" group-title="Регионал", Миллет
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/222.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="223" tvg-logo="http://epg.cdntv.online/img/223.png" group-title="Регионал", Мир Белогорья
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/223.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="224" tvg-logo="http://epg.cdntv.online/img/224.png" group-title="Регионал", Московский образовательный
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/224.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="225" tvg-logo="http://epg.cdntv.online/img/225.png" group-title="Регионал", Санкт-Петербург
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/225.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="226" tvg-logo="http://epg.cdntv.online/img/226.png" group-title="Регионал", НВК САХА
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/226.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="230" tvg-logo="http://epg.cdntv.online/img/230.png" group-title="Регионал", Наша Сибирь HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/230.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="234" tvg-logo="http://epg.cdntv.online/img/234.png" group-title="Регионал", ОТВ 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/234.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="235" tvg-logo="http://epg.cdntv.online/img/235.png" group-title="Регионал", ОТВ Челябинск
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/235.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="237" tvg-logo="http://epg.cdntv.online/img/237.png" group-title="Регионал", ОТС HD (Новосибирск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/237.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="238" tvg-logo="http://epg.cdntv.online/img/238.png" group-title="Регионал", Первый крымский
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/238.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="239" tvg-logo="http://epg.cdntv.online/img/239.png" group-title="Регионал", Регион 29
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/239.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="242" tvg-logo="http://epg.cdntv.online/img/242.png" group-title="Регионал", С1 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/242.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="244" tvg-logo="http://epg.cdntv.online/img/244.png" group-title="Регионал", СТРК
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/244.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="245" tvg-logo="http://epg.cdntv.online/img/245.png" group-title="Регионал", Салям ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/245.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="246" tvg-logo="http://epg.cdntv.online/img/246.png" group-title="Регионал", ТелеДом (Санкт-Петербург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/246.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="247" tvg-logo="http://epg.cdntv.online/img/247.png" group-title="Регионал", Саратов 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/247.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="253" tvg-logo="http://epg.cdntv.online/img/253.png" group-title="Регионал", ТНВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/253.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="254" tvg-logo="http://epg.cdntv.online/img/254.png" group-title="Регионал", ТРК Губерния
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/254.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="258" tvg-logo="http://epg.cdntv.online/img/258.png" group-title="Регионал", Тюменское Время
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/258.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="262" tvg-logo="http://epg.cdntv.online/img/262.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Эхо-ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/262.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="265" tvg-logo="http://epg.cdntv.online/img/265.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Авто 24
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/265.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="266" tvg-logo="http://epg.cdntv.online/img/266.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Авто плюс
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/266.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Спорт ТВ", Диалоги о рыбалке
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/267.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Мужской
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/269.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Наша Тема
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/270.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Оружие
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/271.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Охота и Рыбалка
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/272.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Охотник и рыболов
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/273.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Охотник и рыболов HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/274.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="281" tvg-logo="http://epg.cdntv.online/img/281.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/281.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="379" tvg-logo="http://epg.cdntv.online/img/379.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Победа HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/379.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="381" tvg-logo="http://epg.cdntv.online/img/381.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", UDAR HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/381.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="383" tvg-logo="http://epg.cdntv.online/img/383.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Игра HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/383.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="387" tvg-logo="http://epg.cdntv.online/img/387.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Ultra HD cinema (4K)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/387.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Рен ТВ HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/388.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТНТ HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/390.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="393" tvg-logo="http://epg.cdntv.online/img/393.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", 1HD Music Television HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/393.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="394" tvg-logo="http://epg.cdntv.online/img/394.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/394.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="395" tvg-logo="http://epg.cdntv.online/img/395.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Clubbing TV
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/395.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="397" tvg-logo="http://epg.cdntv.online/img/397.png" group-title="МУЗЫКА", RU.TV HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/397.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="399" tvg-logo="http://epg.cdntv.online/img/399.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Жара TV
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/399.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="400" tvg-logo="http://epg.cdntv.online/img/400.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", О2ТВ HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/400.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="401" tvg-logo="http://epg.cdntv.online/img/401.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", A1 HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/401.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="402" tvg-logo="http://epg.cdntv.online/img/402.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", A2 HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/402.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="403" tvg-logo="http://epg.cdntv.online/img/403.png" group-title="УКРАИНА", Bolt
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/403.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="404" tvg-logo="http://epg.cdntv.online/img/404.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", FAN HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/404.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="406" tvg-logo="http://epg.cdntv.online/img/406.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Comedy Central
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/406.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="409" tvg-logo="http://epg.cdntv.online/img/409.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000 Action HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/409.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000 HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/410.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Viju TV1000 Русское HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/411.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Киносемья HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/414.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Русский роман HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/416.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="418" tvg-logo="http://epg.cdntv.online/img/418.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Bollywood HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/418.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="420" tvg-logo="http://epg.cdntv.online/img/420.png" group-title="Спорт ТВ", Диалоги о рыбалке HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/420.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="421" tvg-logo="http://epg.cdntv.online/img/421.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Дикая охота HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/421.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="422" tvg-logo="http://epg.cdntv.online/img/422.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Дикая рыбалка HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/422.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="428" tvg-logo="http://epg.cdntv.online/img/428.png" group-title="Общие", Fashion TV HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/428.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="429" tvg-logo="http://epg.cdntv.online/img/429.png" group-title="Регионал", C1 HD (Сургут)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/429.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="430" tvg-logo="http://epg.cdntv.online/img/430.png" group-title="Регионал", Инфо 24 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/430.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="432" tvg-logo="http://epg.cdntv.online/img/432.png" group-title="Регионал", Осетия Ирыстон HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/432.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="434" tvg-logo="http://epg.cdntv.online/img/434.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Ultra HD Cinema
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/434.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="460" tvg-logo="http://epg.cdntv.online/img/460.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Viju+ Sport
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/460.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="462" tvg-logo="http://epg.cdntv.online/img/462.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Мир Баскетбола
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/462.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="464" tvg-logo="http://epg.cdntv.online/img/464.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Старт HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/464.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="466" tvg-logo="http://epg.cdntv.online/img/466.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", 2x2
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/466.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="469" tvg-logo="http://epg.cdntv.online/img/469.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Анекдот ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/469.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="470" tvg-logo="http://epg.cdntv.online/img/470.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Жар Птица
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/470.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="472" tvg-logo="http://epg.cdntv.online/img/472.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", КВН ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/472.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="473" tvg-logo="http://epg.cdntv.online/img/473.png" group-title="Общие", Ключ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/473.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="474" tvg-logo="http://epg.cdntv.online/img/474.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Суббота!
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/474.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="475" tvg-logo="http://epg.cdntv.online/img/475.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Тайна
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/475.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="476" tvg-logo="http://epg.cdntv.online/img/476.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТНТ4
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/476.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="482" tvg-logo="http://epg.cdntv.online/img/482.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Gulli Girl
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/482.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="484" tvg-logo="http://epg.cdntv.online/img/484.png" group-title="Детки ТВ", В Гостях у сказки HD
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/484.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="485" tvg-logo="http://epg.cdntv.online/img/485.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Уникум
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/485.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="488" tvg-logo="http://epg.cdntv.online/img/488.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детки ТВ", Радость моя
+#EXTGRP:Детки ТВ
+http://u.vipl.one/high/x9scda3iu7/488.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="489" tvg-logo="http://epg.cdntv.online/img/489.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", 1HD Music Television
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/489.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="490" tvg-logo="http://epg.cdntv.online/img/490.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", MCM Top
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/490.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="491" tvg-logo="http://epg.cdntv.online/img/491.png" group-title="МУЗЫКА", Mezzo
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/491.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="493" tvg-logo="http://epg.cdntv.online/img/493.png" group-title="МУЗЫКА", Music Box Gold
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/493.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="494" tvg-logo="http://epg.cdntv.online/img/494.png" group-title="МУЗЫКА", MTV 00s
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/494.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="496" tvg-logo="http://epg.cdntv.online/img/496.png" group-title="МУЗЫКА", Музыка Первого
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/496.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="497" tvg-logo="http://epg.cdntv.online/img/497.png" group-title="МУЗЫКА", Радио Шансон
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/497.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="498" tvg-logo="http://epg.cdntv.online/img/498.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", A2
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/498.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="499" tvg-logo="http://epg.cdntv.online/img/499.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Amedia Hit
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/499.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="500" tvg-logo="http://epg.cdntv.online/img/500.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Amedia Premium
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/500.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="502" tvg-logo="http://epg.cdntv.online/img/502.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Hollywood
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/502.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="503" tvg-logo="http://epg.cdntv.online/img/503.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Hollywood HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/503.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="506" tvg-logo="http://epg.cdntv.online/img/506.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", .Black
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/506.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="509" tvg-logo="http://epg.cdntv.online/img/509.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Киноужас
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/509.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="510" tvg-logo="http://epg.cdntv.online/img/510.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Комедия
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/510.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="513" tvg-logo="http://epg.cdntv.online/img/513.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Ретро ТВ
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/513.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="514" tvg-logo="http://epg.cdntv.online/img/514.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Родное кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/514.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="515" tvg-logo="http://epg.cdntv.online/img/515.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Феникс + кино
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/515.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="516" tvg-logo="http://epg.cdntv.online/img/516.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Дикий
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/516.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="521" tvg-logo="http://epg.cdntv.online/img/521.png" group-title="Регионал", Моя Удмуртия
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/521.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="522" tvg-logo="http://epg.cdntv.online/img/522.png" group-title="Общие", 2x2 (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/522.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="523" tvg-logo="http://epg.cdntv.online/img/523.png" group-title="Общие", 2x2 (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/523.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="525" tvg-logo="http://epg.cdntv.online/img/525.png" group-title="Регионал", Дагестан
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/525.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="527" tvg-logo="http://epg.cdntv.online/img/527.png" group-title="Регионал", C1 HD (Сургут)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/527.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="528" tvg-logo="http://epg.cdntv.online/img/528.png" group-title="Общие", Солнце (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/528.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="529" tvg-logo="http://epg.cdntv.online/img/529.png" group-title="Общие", Солнце (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/529.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="530" tvg-logo="http://epg.cdntv.online/img/530.png" group-title="Регионал", TV Губерния (Воронеж)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/530.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="539" tvg-logo="http://epg.cdntv.online/img/539.png" group-title="Регионал", Астрахань 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/539.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="540" tvg-logo="http://epg.cdntv.online/img/540.png" group-title="Регионал", АТВ (Ставрополь)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/540.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="541" tvg-logo="http://epg.cdntv.online/img/541.png" group-title="Регионал", АТВ (Улан-Удэ)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/541.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="544" tvg-logo="http://epg.cdntv.online/img/544.png" group-title="Регионал", Белгород 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/544.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="546" tvg-logo="http://epg.cdntv.online/img/546.png" group-title="Регионал", Вариант V (Владимир)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/546.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="547" tvg-logo="http://epg.cdntv.online/img/547.png" group-title="Регионал", Волга (Н. Новгород)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/547.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="549" tvg-logo="http://epg.cdntv.online/img/549.png" group-title="Регионал", Вот ТВ (Липецк)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/549.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="550" tvg-logo="http://epg.cdntv.online/img/550.png" group-title="Регионал", ГИС (Самара)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/550.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="552" tvg-logo="http://epg.cdntv.online/img/552.png" group-title="Регионал", ГТ-Ярославль
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/552.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="554" tvg-logo="http://epg.cdntv.online/img/554.png" group-title="Регионал", Губерния (Самара)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/554.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="555" tvg-logo="http://epg.cdntv.online/img/555.png" group-title="Регионал", Губерния (Брянск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/555.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="557" tvg-logo="http://epg.cdntv.online/img/557.png" group-title="Регионал", Дзержинск
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/557.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="558" tvg-logo="http://epg.cdntv.online/img/558.png" group-title="Общие", Домашний (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/558.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="559" tvg-logo="http://epg.cdntv.online/img/559.png" group-title="Общие", Домашний (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/559.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="561" tvg-logo="http://epg.cdntv.online/img/561.png" group-title="Общие", Домашний (+1)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/561.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="563" tvg-logo="http://epg.cdntv.online/img/563.png" group-title="Регионал", Енисей (Красноярск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/563.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="564" tvg-logo="http://epg.cdntv.online/img/564.png" group-title="Общие", Звезда (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/564.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="565" tvg-logo="http://epg.cdntv.online/img/565.png" group-title="Общие", Звезда (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/565.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="568" tvg-logo="http://epg.cdntv.online/img/568.png" group-title="Общие", Карусель (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/568.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="569" tvg-logo="http://epg.cdntv.online/img/569.png" group-title="Общие", Карусель (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/569.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="573" tvg-logo="http://epg.cdntv.online/img/573.png" group-title="Регионал", Краснодар
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/573.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="576" tvg-logo="http://epg.cdntv.online/img/576.png" group-title="Регионал", Майдан (Казань)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/576.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="577" tvg-logo="http://epg.cdntv.online/img/577.png" group-title="Регионал", МиГ ТВ (Екатеринбург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/577.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="578" tvg-logo="http://epg.cdntv.online/img/578.png" group-title="Общие", Мир (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/578.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="579" tvg-logo="http://epg.cdntv.online/img/579.png" group-title="Общие", Мир (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/579.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="582" tvg-logo="http://epg.cdntv.online/img/582.png" group-title="Регионал", Москва. Доверие
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/582.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="584" tvg-logo="http://epg.cdntv.online/img/584.png" group-title="Общие", Муз ТВ (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/584.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="585" tvg-logo="http://epg.cdntv.online/img/585.png" group-title="Общие", Муз ТВ (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/585.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="586" tvg-logo="http://epg.cdntv.online/img/586.png" group-title="Общие", Муз ТВ (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/586.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="587" tvg-logo="http://epg.cdntv.online/img/587.png" group-title="Регионал", Национальное телевидение Чувашии
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/587.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="589" tvg-logo="http://epg.cdntv.online/img/589.png" group-title="Регионал", Наши Города (Сургут)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/589.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="590" tvg-logo="http://epg.cdntv.online/img/590.png" group-title="Регионал", Ника
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/590.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="591" tvg-logo="http://epg.cdntv.online/img/591.png" group-title="Регионал", ННТВ (Нижний Новгород)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/591.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="592" tvg-logo="http://epg.cdntv.online/img/592.png" group-title="Регионал", НСК 49 (Новосибирск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/592.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="593" tvg-logo="http://epg.cdntv.online/img/593.png" group-title="Общие", НТВ (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/593.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="594" tvg-logo="http://epg.cdntv.online/img/594.png" group-title="Общие", НТВ (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/594.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="596" tvg-logo="http://epg.cdntv.online/img/596.png" group-title="Регионал", НТВ (Мурманск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/596.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="598" tvg-logo="http://epg.cdntv.online/img/598.png" group-title="Общие", ОТВ (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/598.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="603" tvg-logo="http://epg.cdntv.online/img/603.png" group-title="Регионал", ОТС (Новосибирск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/603.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="604" tvg-logo="http://epg.cdntv.online/img/604.png" group-title="Регионал", Первый городской (Киров)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/604.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="606" tvg-logo="http://epg.cdntv.online/img/606.png" group-title="Регионал", Первый городской (Омск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/606.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="619" tvg-logo="http://epg.cdntv.online/img/619.png" group-title="Регионал", Первый областной (Орел)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/619.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="620" tvg-logo="http://epg.cdntv.online/img/620.png" group-title="Регионал", Первый тульский
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/620.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="621" tvg-logo="http://epg.cdntv.online/img/621.png" group-title="Регионал", Первый ярославский
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/621.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="622" tvg-logo="http://epg.cdntv.online/img/622.png" group-title="Регионал", Продвижение (Екатеринбург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/622.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="623" tvg-logo="http://epg.cdntv.online/img/623.png" group-title="Регионал", Продвижение (Омск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/623.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="624" tvg-logo="http://epg.cdntv.online/img/624.png" group-title="Общие", Пятница! (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/624.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="625" tvg-logo="http://epg.cdntv.online/img/625.png" group-title="Общие", Пятый канал (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/625.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="626" tvg-logo="http://epg.cdntv.online/img/626.png" group-title="Общие", Пятый канал (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/626.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="628" tvg-logo="http://epg.cdntv.online/img/628.png" group-title="Общие", Рен ТВ (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/628.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="629" tvg-logo="http://epg.cdntv.online/img/629.png" group-title="Общие", Рен ТВ (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/629.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="633" tvg-logo="http://epg.cdntv.online/img/633.png" group-title="Регионал", РИМ (Екатеринбург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/633.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="634" tvg-logo="http://epg.cdntv.online/img/634.png" group-title="Регионал", РИФЕЙ-ТВ (Пермь)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/634.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="647" tvg-logo="http://epg.cdntv.online/img/647.png" group-title="Общие", Россия К (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/647.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="648" tvg-logo="http://epg.cdntv.online/img/648.png" group-title="Общие", Россия К (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/648.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="650" tvg-logo="http://epg.cdntv.online/img/650.png" group-title="Регионал", Россия К (Хабаровск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/650.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="652" tvg-logo="http://epg.cdntv.online/img/652.png" group-title="Регионал", РТС (Абакан)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/652.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="653" tvg-logo="http://epg.cdntv.online/img/653.png" group-title="Регионал", Своё ТВ (Ставрополь)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/653.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="657" tvg-logo="http://epg.cdntv.online/img/657.png" group-title="Общие", СТС (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/657.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="658" tvg-logo="http://epg.cdntv.online/img/658.png" group-title="Общие", СТС (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/658.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="663" tvg-logo="http://epg.cdntv.online/img/663.png" group-title="Общие", Суббота! (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/663.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="664" tvg-logo="http://epg.cdntv.online/img/664.png" group-title="Общие", Суббота! (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/664.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="666" tvg-logo="http://epg.cdntv.online/img/666.png" group-title="Регионал", Тагил-ТВ (Екатеринбург)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/666.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="667" tvg-logo="http://epg.cdntv.online/img/667.png" group-title="Общие", ТВ3 (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/667.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="668" tvg-logo="http://epg.cdntv.online/img/668.png" group-title="Общие", ТВ3 (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/668.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="669" tvg-logo="http://epg.cdntv.online/img/669.png" group-title="Общие", ТВ Центр (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/669.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="670" tvg-logo="http://epg.cdntv.online/img/670.png" group-title="Общие", ТВ Центр (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/670.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="671" tvg-logo="http://epg.cdntv.online/img/671.png" group-title="Общие", ТВ3 (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/671.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="672" tvg-logo="http://epg.cdntv.online/img/672.png" group-title="Регионал", Тверской проспект
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/672.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="673" tvg-logo="http://epg.cdntv.online/img/673.png" group-title="Регионал", ТВ-ИН (Челябинск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/673.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="674" tvg-logo="http://epg.cdntv.online/img/674.png" group-title="Регионал", ТВЦ (Мурманск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/674.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="675" tvg-logo="http://epg.cdntv.online/img/675.png" group-title="Регионал", Тивиком (Улан-Удэ)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/675.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="676" tvg-logo="http://epg.cdntv.online/img/676.png" group-title="Регионал", ТК центр (Красноярск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/676.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="677" tvg-logo="http://epg.cdntv.online/img/677.png" group-title="Регионал", ТКР (Рязань)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/677.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="678" tvg-logo="http://epg.cdntv.online/img/678.png" group-title="Регионал", TMTV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/678.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="680" tvg-logo="http://epg.cdntv.online/img/680.png" group-title="Общие", ТНТ (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/680.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="681" tvg-logo="http://epg.cdntv.online/img/681.png" group-title="Общие", ТНТ (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/681.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="682" tvg-logo="http://epg.cdntv.online/img/682.png" group-title="Общие", ТНТ4 (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/682.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="683" tvg-logo="http://epg.cdntv.online/img/683.png" group-title="Общие", ТНТ4 (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/683.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="684" tvg-logo="http://epg.cdntv.online/img/684.png" group-title="Регионал", Томское время
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/684.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="686" tvg-logo="http://epg.cdntv.online/img/686.png" group-title="Регионал", Хамдан (Элиста)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/686.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="688" tvg-logo="http://epg.cdntv.online/img/688.png" group-title="Общие", Че (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/688.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="689" tvg-logo="http://epg.cdntv.online/img/689.png" group-title="Общие", Че (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/689.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="690" tvg-logo="http://epg.cdntv.online/img/690.png" group-title="Регионал", Шаян ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/690.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="692" tvg-logo="http://epg.cdntv.online/img/692.png" group-title="Общие", Ю (+2)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/692.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="693" tvg-logo="http://epg.cdntv.online/img/693.png" group-title="Общие", Ю (+4)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/693.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="694" tvg-logo="http://epg.cdntv.online/img/694.png" group-title="Общие", Ю (+7)
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/694.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="695" tvg-logo="http://epg.cdntv.online/img/695.png" group-title="Регионал", Югра (Тюмень)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/695.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="698" tvg-logo="http://epg.cdntv.online/img/698.png" group-title="Регионал", Экспресс Пенза
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/698.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="701" tvg-logo="http://epg.cdntv.online/img/701.png" group-title="Регионал", БелРос (ТРО)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/701.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="708" tvg-logo="http://epg.cdntv.online/img/708.png" group-title="Регионал", Волгоград 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/708.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="711" tvg-logo="http://epg.cdntv.online/img/711.png" group-title="Регионал", Ивановское
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/711.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="714" tvg-logo="http://epg.cdntv.online/img/714.png" group-title="Регионал", Новый век (Тамбов)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/714.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="715" tvg-logo="http://epg.cdntv.online/img/715.png" group-title="Регионал", РЕН ТВ 7 Канал (Красноярск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/715.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="717" tvg-logo="http://epg.cdntv.online/img/717.png" group-title="Регионал", СТС (Кузбасс)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/717.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="718" tvg-logo="http://epg.cdntv.online/img/718.png" group-title="Регионал", СТС Прима (Красноярск)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/718.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="722" tvg-logo="http://epg.cdntv.online/img/722.png" group-title="Регионал", Univer TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/722.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="744" tvg-logo="http://epg.cdntv.online/img/744.png" group-title="УКРАИНА", ЕКО-ТВ
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/744.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="748" tvg-logo="http://epg.cdntv.online/img/748.png" group-title="УКРАИНА", 24 канал
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/748.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="755" tvg-logo="http://epg.cdntv.online/img/755.png" group-title="УКРАИНА", Рада
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/755.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="759" tvg-logo="http://epg.cdntv.online/img/759.png" group-title="УКРАИНА", ПЕРШИЙ
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/759.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="761" tvg-logo="http://epg.cdntv.online/img/761.png" group-title="УКРАИНА", KVARTAL TV
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/761.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="762" tvg-logo="http://epg.cdntv.online/img/762.png" group-title="УКРАИНА", Дача HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/762.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 1
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/770.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="771" tvg-logo="http://epg.cdntv.online/img/771.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 2
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/771.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="772" tvg-logo="http://epg.cdntv.online/img/772.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 3
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/772.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="779" tvg-logo="http://epg.cdntv.online/img/779.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", НТВ Беларусь
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/779.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="781" tvg-logo="http://epg.cdntv.online/img/781.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", 9 канал (Израиль)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/781.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="789" tvg-logo="http://epg.cdntv.online/img/789.png" group-title="УКРАИНА", Прямой HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/789.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="793" tvg-logo="http://epg.cdntv.online/img/793.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", УНІАН HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/793.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="799" tvg-logo="http://epg.cdntv.online/img/799.png" group-title="УКРАИНА", Zoom
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/799.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="800" tvg-logo="http://epg.cdntv.online/img/800.png" group-title="УКРАИНА", Сварожичи
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/800.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="801" tvg-logo="http://epg.cdntv.online/img/801.png" group-title="УКРАИНА", 8 Канал
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/801.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="829" tvg-logo="http://epg.cdntv.online/img/829.png" group-title="УКРАИНА", XSPORT
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/829.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="830" tvg-logo="http://epg.cdntv.online/img/830.png" group-title="УКРАИНА", М1 HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/830.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="831" tvg-logo="http://epg.cdntv.online/img/831.png" group-title="УКРАИНА", М2 HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/831.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="834" tvg-logo="http://epg.cdntv.online/img/834.png" group-title="УКРАИНА", OBOZREVATEL HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/834.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="849" tvg-logo="http://epg.cdntv.online/img/849.png" group-title="УКРАИНА", Lale
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/849.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="854" tvg-logo="http://epg.cdntv.online/img/854.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", 2+2 HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/854.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="855" tvg-logo="http://epg.cdntv.online/img/855.png" group-title="УКРАИНА", К1
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/855.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="856" tvg-logo="http://epg.cdntv.online/img/856.png" group-title="УКРАИНА", К2
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/856.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="861" tvg-logo="http://epg.cdntv.online/img/861.png" group-title="УКРАИНА", Телевсесвит HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/861.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="863" tvg-logo="http://epg.cdntv.online/img/863.png" group-title="УКРАИНА", Setanta Sports Ukraine HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/863.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="866" tvg-logo="http://epg.cdntv.online/img/866.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", 1+1 HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/866.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="867" tvg-logo="http://epg.cdntv.online/img/867.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", ICTV HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/867.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="868" tvg-logo="http://epg.cdntv.online/img/868.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", СТБ HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/868.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="871" tvg-logo="http://epg.cdntv.online/img/871.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", ОНТ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/871.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="872" tvg-logo="http://epg.cdntv.online/img/872.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", ТВ-3 Беларусь
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/872.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="873" tvg-logo="http://epg.cdntv.online/img/873.png" group-title="Регионал", Первый Музыкальный HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/873.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="874" tvg-logo="http://epg.cdntv.online/img/874.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", 8 канал Беларусь
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/874.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="875" tvg-logo="http://epg.cdntv.online/img/875.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", СТВ Беларусь
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/875.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="878" tvg-logo="http://epg.cdntv.online/img/878.png" group-title="Кинозал2", kino 1
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/878.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="881" tvg-logo="http://epg.cdntv.online/img/881.png" group-title="Кинозал2", Кошмар
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/881.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png" group-title="Кинозал2", Кино 1 INT
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/883.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="888" tvg-logo="http://epg.cdntv.online/img/888.png" group-title="Кинозал2", Akubji
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/888.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="889" tvg-logo="http://epg.cdntv.online/img/889.png" group-title="Кинозал2", Кино 4
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/889.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="893" tvg-logo="http://epg.cdntv.online/img/893.png" group-title="Кинозал2", Russian Movies
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/893.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="896" tvg-logo="http://epg.cdntv.online/img/896.png" group-title="Кинозал2", Ужастик
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/896.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="897" tvg-logo="http://epg.cdntv.online/img/897.png" group-title="Кинозал2", Маша и Медведь
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/897.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="898" tvg-logo="http://epg.cdntv.online/img/898.png" group-title="Кинозал2", Фантастика
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/898.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="900" tvg-logo="http://epg.cdntv.online/img/900.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Наше крутое HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/900.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="901" tvg-logo="http://epg.cdntv.online/img/901.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Премиальное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/901.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="902" tvg-logo="http://epg.cdntv.online/img/902.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Остросюжетное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/902.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="903" tvg-logo="http://epg.cdntv.online/img/903.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Душевное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/903.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="904" tvg-logo="http://epg.cdntv.online/img/904.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кинопоказ HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/904.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="905" tvg-logo="http://epg.cdntv.online/img/905.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Шокирующее HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/905.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="906" tvg-logo="http://epg.cdntv.online/img/906.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Комедийное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/906.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="907" tvg-logo="http://epg.cdntv.online/img/907.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", День победы HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/907.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="932" tvg-logo="http://epg.cdntv.online/img/932.png" group-title="Регионал", US Armenia TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/932.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="937" tvg-logo="http://epg.cdntv.online/img/937.png" group-title="Регионал", 7 канал
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/937.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="941" tvg-logo="http://epg.cdntv.online/img/941.png" group-title="Регионал", Ел Арна
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/941.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="943" tvg-logo="http://epg.cdntv.online/img/943.png" group-title="Регионал", Yeshua Chai TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/943.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="955" tvg-logo="http://epg.cdntv.online/img/955.png" group-title="МУЗЫКА", VIVA TV HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/955.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="958" tvg-logo="http://epg.cdntv.online/img/958.png" group-title="Регионал", МТВ Волгоград
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/958.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="961" tvg-logo="http://epg.cdntv.online/img/961.png" group-title="Регионал", НТМ (Мордовия)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/961.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="965" tvg-logo="http://epg.cdntv.online/img/965.png" group-title="Регионал", Сочи 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/965.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="967" tvg-logo="http://epg.cdntv.online/img/967.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Страна FM HD
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/967.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="968" tvg-logo="http://epg.cdntv.online/img/968.png" group-title="Регионал", СТРК HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/968.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="972" tvg-logo="http://epg.cdntv.online/img/972.png" group-title="УКРАИНА", Суспільне Одеса
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/972.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="976" tvg-logo="http://epg.cdntv.online/img/976.png" group-title="УКРАИНА", Плюс Плюс
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/976.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="981" tvg-logo="http://epg.cdntv.online/img/981.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 1
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/981.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="982" tvg-logo="http://epg.cdntv.online/img/982.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 2
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/982.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="983" tvg-logo="http://epg.cdntv.online/img/983.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Матч! Футбол 3
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/983.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="989" tvg-logo="http://epg.cdntv.online/img/989.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Жара
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/989.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="997" tvg-logo="http://epg.cdntv.online/img/997.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 1 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/997.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="998" tvg-logo="http://epg.cdntv.online/img/998.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 2 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/998.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="999" tvg-logo="http://epg.cdntv.online/img/999.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 24 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/999.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1000" tvg-logo="http://epg.cdntv.online/img/1000.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 3 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1000.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1001" tvg-logo="http://epg.cdntv.online/img/1001.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Беларусь 5 HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1001.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1018" tvg-logo="http://epg.cdntv.online/img/1018.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", НТВ-Мир
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1018.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1021" tvg-logo="http://epg.cdntv.online/img/1021.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Сетанта Спорт HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/1021.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1022" tvg-logo="http://epg.cdntv.online/img/1022.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Сетанта Спорт+ HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/1022.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1025" tvg-logo="http://epg.cdntv.online/img/1025.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Хит HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1025.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1026" tvg-logo="http://epg.cdntv.online/img/1026.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Наш Кинопоказ HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1026.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1028" tvg-logo="http://epg.cdntv.online/img/1028.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Романтичное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1028.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1029" tvg-logo="http://epg.cdntv.online/img/1029.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Наше Мужское HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1029.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1030" tvg-logo="http://epg.cdntv.online/img/1030.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", КиноСат
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1030.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1031" tvg-logo="http://epg.cdntv.online/img/1031.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Блокбастер HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1031.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1032" tvg-logo="http://epg.cdntv.online/img/1032.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Арсенал HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1032.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1033" tvg-logo="http://epg.cdntv.online/img/1033.png" group-title="Общие", HGTV HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1033.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1034" tvg-logo="http://epg.cdntv.online/img/1034.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Russian Extreme HD
+#EXTGRP:Спорт ТВ
+http://u.vipl.one/high/x9scda3iu7/1034.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", ТВ3 HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1036.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1037" tvg-logo="http://epg.cdntv.online/img/1037.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Moldova 2
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1037.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", СТС HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1061.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1065" tvg-logo="http://epg.cdntv.online/img/1065.png" group-title="УКРАИНА", Setanta Sports+ Ukraine HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1065.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1095" tvg-logo="http://epg.cdntv.online/img/1095.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Мосфильм HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1095.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1096" tvg-logo="http://epg.cdntv.online/img/1096.png" group-title="Регионал", Запад 24 (Калининград)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1096.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1097" tvg-logo="http://epg.cdntv.online/img/1097.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Перец International
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1097.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1098" tvg-logo="http://epg.cdntv.online/img/1098.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Trash HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1098.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Про любовь HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1099.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Камеди HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1100.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1101" tvg-logo="http://epg.cdntv.online/img/1101.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кино UHD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1101.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1102" tvg-logo="http://epg.cdntv.online/img/1102.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Сериал UHD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1102.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1103" tvg-logo="http://epg.cdntv.online/img/1103.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Кино Ultra HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1103.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1104" tvg-logo="http://epg.cdntv.online/img/1104.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Сериал Ultra HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1104.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1108" tvg-logo="http://epg.cdntv.online/img/1108.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", НТВ Стиль
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1108.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1109" tvg-logo="http://epg.cdntv.online/img/1109.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", 1+1
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1109.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1110" tvg-logo="http://epg.cdntv.online/img/1110.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", 2+2
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1110.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1111" tvg-logo="http://epg.cdntv.online/img/1111.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", ICTV
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1111.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1114" tvg-logo="http://epg.cdntv.online/img/1114.png" catchup="shift" catchup-days="3" timeshift="3" group-title="УКРАИНА", Новый канал
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1114.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" group-title="Общие", Звезда HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1115.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1143" tvg-logo="http://epg.cdntv.online/img/1143.png" group-title="Регионал", QAZSPORT HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1143.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1148" tvg-logo="http://epg.cdntv.online/img/1148.png" group-title="Регионал", TDK 42
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1148.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1149" tvg-logo="http://epg.cdntv.online/img/1149.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Любимое HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1149.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1150" tvg-logo="http://epg.cdntv.online/img/1150.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", E HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1150.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1152" tvg-logo="http://epg.cdntv.online/img/1152.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV Шлягер
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/1152.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1159" tvg-logo="http://epg.cdntv.online/img/1159.png" group-title="Регионал", GDS TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1159.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1161" tvg-logo="http://epg.cdntv.online/img/1161.png" group-title="Регионал", Adjara TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1161.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1162" tvg-logo="http://epg.cdntv.online/img/1162.png" group-title="Регионал", Marao
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1162.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1164" tvg-logo="http://epg.cdntv.online/img/1164.png" group-title="Регионал", Obieqtivi TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1164.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1168" tvg-logo="http://epg.cdntv.online/img/1168.png" group-title="Кинозал2", Твое ТВ
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1168.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1169" tvg-logo="http://epg.cdntv.online/img/1169.png" group-title="Кинозал2", 1Filmax
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1169.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1170" tvg-logo="http://epg.cdntv.online/img/1170.png" group-title="Кинозал2", 2Filmax
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1170.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1171" tvg-logo="http://epg.cdntv.online/img/1171.png" group-title="Кинозал2", Film tv
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1171.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1172" tvg-logo="http://epg.cdntv.online/img/1172.png" group-title="Кинозал2", Фантом
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1172.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1174" tvg-logo="http://epg.cdntv.online/img/1174.png" group-title="Кинозал2", Страх HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1174.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1180" tvg-logo="http://epg.cdntv.online/img/1180.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", 1mus.com
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/1180.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1185" tvg-logo="http://epg.cdntv.online/img/1185.png" group-title="Регионал", Мордовия 24
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1185.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1187" tvg-logo="http://epg.cdntv.online/img/1187.png" group-title="Регионал", Setanta Qazaqstan HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1187.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1190" tvg-logo="http://epg.cdntv.online/img/1190.png" group-title="Регионал", RU.TV Moldova
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1190.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1198" tvg-logo="http://epg.cdntv.online/img/1198.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Регионал", Jurnal TV HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1198.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1228" tvg-logo="http://epg.cdntv.online/img/1228.png" group-title="Регионал", Dunyo Boylab
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1228.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1232" tvg-logo="http://epg.cdntv.online/img/1232.png" group-title="Регионал", Navo
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1232.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1236" tvg-logo="http://epg.cdntv.online/img/1236.png" group-title="Регионал", Zo'rTV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1236.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1238" tvg-logo="http://epg.cdntv.online/img/1238.png" group-title="Регионал", MilliyTV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1238.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1246" tvg-logo="http://epg.cdntv.online/img/1246.png" group-title="УКРАИНА", Кус-кус HD
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1246.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1250" tvg-logo="http://epg.cdntv.online/img/1250.png" group-title="Регионал", Kinoteatr
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1250.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1252" tvg-logo="http://epg.cdntv.online/img/1252.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", Cartoons 90
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1252.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1253" tvg-logo="http://epg.cdntv.online/img/1253.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", Cartoons Short
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1253.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1254" tvg-logo="http://epg.cdntv.online/img/1254.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", Cartoons Big
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1254.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1255" tvg-logo="http://epg.cdntv.online/img/1255.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1255.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1256" tvg-logo="http://epg.cdntv.online/img/1256.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Top
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1256.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1257" tvg-logo="http://epg.cdntv.online/img/1257.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Action
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1257.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1258" tvg-logo="http://epg.cdntv.online/img/1258.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Thriller
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1258.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1259" tvg-logo="http://epg.cdntv.online/img/1259.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Melodrama
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1259.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1260" tvg-logo="http://epg.cdntv.online/img/1260.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Marvel
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1260.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1261" tvg-logo="http://epg.cdntv.online/img/1261.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Ужасы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1261.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1262" tvg-logo="http://epg.cdntv.online/img/1262.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Комедия
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1262.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1263" tvg-logo="http://epg.cdntv.online/img/1263.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan VHS
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1263.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1264" tvg-logo="http://epg.cdntv.online/img/1264.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan РуКино
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1264.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1265" tvg-logo="http://epg.cdntv.online/img/1265.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Сваты
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1265.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1266" tvg-logo="http://epg.cdntv.online/img/1266.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", Сериал "Скорая помощь"
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1266.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1267" tvg-logo="http://epg.cdntv.online/img/1267.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", Сериал "Симпсоны"
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1267.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1271" tvg-logo="http://epg.cdntv.online/img/1271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Катастрофы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1271.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1295" tvg-logo="http://epg.cdntv.online/img/1295.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Ментовские войны
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1295.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1296" tvg-logo="http://epg.cdntv.online/img/1296.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan ПёС
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1296.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1297" tvg-logo="http://epg.cdntv.online/img/1297.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Лесник
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1297.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1330" tvg-logo="http://epg.cdntv.online/img/1330.png" group-title="Регионал", Q Sport HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1330.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1332" tvg-logo="http://epg.cdntv.online/img/1332.png" group-title="Общие", Gagsnetwork
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1332.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1343" tvg-logo="http://epg.cdntv.online/img/1343.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Cinema HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1343.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1344" tvg-logo="http://epg.cdntv.online/img/1344.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Music HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1344.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1345" tvg-logo="http://epg.cdntv.online/img/1345.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Комедия HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1345.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1346" tvg-logo="http://epg.cdntv.online/img/1346.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI HIT 90
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1346.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1347" tvg-logo="http://epg.cdntv.online/img/1347.png" group-title="Кинозал2", VL Comedy
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1347.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1348" tvg-logo="http://epg.cdntv.online/img/1348.png" group-title="Кинозал2", VL Cartoons
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1348.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1349" tvg-logo="http://epg.cdntv.online/img/1349.png" group-title="Кинозал2", VL Fantastic
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1349.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1350" tvg-logo="http://epg.cdntv.online/img/1350.png" group-title="Кинозал2", VL Holiday
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1350.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1351" tvg-logo="http://epg.cdntv.online/img/1351.png" group-title="Кинозал2", VL Horror
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1351.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Мир HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1352.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1358" tvg-logo="http://epg.cdntv.online/img/1358.png" group-title="Регионал", Kentron
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1358.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1360" tvg-logo="http://epg.cdntv.online/img/1360.png" group-title="Регионал", 5TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1360.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1361" tvg-logo="http://epg.cdntv.online/img/1361.png" group-title="Регионал", Cineman
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1361.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1363" tvg-logo="http://epg.cdntv.online/img/1363.png" group-title="Регионал", Filmzone
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1363.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1365" tvg-logo="http://epg.cdntv.online/img/1365.png" group-title="Регионал", U! Premium
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1365.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1370" tvg-logo="http://epg.cdntv.online/img/1370.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI History HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1370.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1371" tvg-logo="http://epg.cdntv.online/img/1371.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Premium HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1371.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1372" tvg-logo="http://epg.cdntv.online/img/1372.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Russian HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1372.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1373" tvg-logo="http://epg.cdntv.online/img/1373.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Fantastica HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1373.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1374" tvg-logo="http://epg.cdntv.online/img/1374.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI VHS HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1374.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1375" tvg-logo="http://epg.cdntv.online/img/1375.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Action HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1375.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1376" tvg-logo="http://epg.cdntv.online/img/1376.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI СССР HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1376.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1377" tvg-logo="http://epg.cdntv.online/img/1377.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Famliy HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1377.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1378" tvg-logo="http://epg.cdntv.online/img/1378.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Retro HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1378.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1379" tvg-logo="http://epg.cdntv.online/img/1379.png" group-title="Кинозал2", Z!Channel HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1379.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1380" tvg-logo="http://epg.cdntv.online/img/1380.png" group-title="Кинозал2", Z!Action HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1380.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1381" tvg-logo="http://epg.cdntv.online/img/1381.png" group-title="Кинозал2", Z!Adventure HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1381.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1382" tvg-logo="http://epg.cdntv.online/img/1382.png" group-title="Кинозал2", Z!Biography HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1382.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1383" tvg-logo="http://epg.cdntv.online/img/1383.png" group-title="Кинозал2", Z!Comedy HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1383.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1384" tvg-logo="http://epg.cdntv.online/img/1384.png" group-title="Кинозал2", Z!Crime HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1384.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1385" tvg-logo="http://epg.cdntv.online/img/1385.png" group-title="Кинозал2", Z!Detective HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1385.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1386" tvg-logo="http://epg.cdntv.online/img/1386.png" group-title="Кинозал2", Z!Drama HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1386.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1387" tvg-logo="http://epg.cdntv.online/img/1387.png" group-title="Кинозал2", Z!Family HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1387.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1388" tvg-logo="http://epg.cdntv.online/img/1388.png" group-title="Кинозал2", Z!Fantastic HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1388.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1389" tvg-logo="http://epg.cdntv.online/img/1389.png" group-title="Кинозал2", Z!Fantasy HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1389.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1390" tvg-logo="http://epg.cdntv.online/img/1390.png" group-title="Кинозал2", Z!History HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1390.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1391" tvg-logo="http://epg.cdntv.online/img/1391.png" group-title="Кинозал2", Z!Horror HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1391.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1392" tvg-logo="http://epg.cdntv.online/img/1392.png" group-title="Кинозал2", Z!Russian HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1392.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1393" tvg-logo="http://epg.cdntv.online/img/1393.png" group-title="Кинозал2", Z!Serial HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1393.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1394" tvg-logo="http://epg.cdntv.online/img/1394.png" group-title="Кинозал2", Z!Sitcom HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1394.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1395" tvg-logo="http://epg.cdntv.online/img/1395.png" group-title="Кинозал2", Z!Smile HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1395.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1396" tvg-logo="http://epg.cdntv.online/img/1396.png" group-title="Кинозал2", Z!Thriller HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1396.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1397" tvg-logo="http://epg.cdntv.online/img/1397.png" group-title="Кинозал2", Z!Travel HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1397.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1398" tvg-logo="http://epg.cdntv.online/img/1398.png" group-title="Кинозал2", Z!Fun HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1398.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1399" tvg-logo="http://epg.cdntv.online/img/1399.png" group-title="Кинозал2", Z!Musiс HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1399.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1400" tvg-logo="http://epg.cdntv.online/img/1400.png" group-title="Кинозал2", Z!Rock HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1400.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1413" tvg-logo="http://epg.cdntv.online/img/1413.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Miniseries
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1413.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1414" tvg-logo="http://epg.cdntv.online/img/1414.png" catchup="shift" catchup-days="3" timeshift="3" group-title="МУЗЫКА", Bridge TV Rock
+#EXTGRP:МУЗЫКА
+http://u.vipl.one/high/x9scda3iu7/1414.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1415" tvg-logo="http://epg.cdntv.online/img/1415.png" group-title="Кинозал2", Z!Military HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1415.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1416" tvg-logo="http://epg.cdntv.online/img/1416.png" group-title="Кинозал2", Z!Science HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1416.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1418" tvg-logo="http://epg.cdntv.online/img/1418.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Horror FHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1418.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1419" tvg-logo="http://epg.cdntv.online/img/1419.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Concert FHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1419.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1420" tvg-logo="http://epg.cdntv.online/img/1420.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Мультик HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1420.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1421" tvg-logo="http://epg.cdntv.online/img/1421.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Docu HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1421.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1422" tvg-logo="http://epg.cdntv.online/img/1422.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Шансон
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1422.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1423" tvg-logo="http://epg.cdntv.online/img/1423.png" group-title="Кинозал2", Lorence TV
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1423.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1426" tvg-logo="http://epg.cdntv.online/img/1426.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", CineMan Premium
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1426.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1477" tvg-logo="http://epg.cdntv.online/img/1477.png" group-title="Регионал", KONUL TV AZERBAIJAN
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1477.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1479" tvg-logo="http://epg.cdntv.online/img/1479.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI DRAMA HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1479.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1480" tvg-logo="http://epg.cdntv.online/img/1480.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Humor HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1480.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1481" tvg-logo="http://epg.cdntv.online/img/1481.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Kids FHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1481.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1483" tvg-logo="http://epg.cdntv.online/img/1483.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Кино серия HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1483.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1484" tvg-logo="http://epg.cdntv.online/img/1484.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Fantasy HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1484.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1485" tvg-logo="http://epg.cdntv.online/img/1485.png" group-title="Регионал", ETV+ HD 
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1485.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1490" tvg-logo="http://epg.cdntv.online/img/1490.png" group-title="Общие", Киносерия
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1490.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1492" tvg-logo="http://epg.cdntv.online/img/1492.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Horror TV HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1492.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1494" tvg-logo="http://epg.cdntv.online/img/1494.png" group-title="Регионал", Новгородское областное ТВ
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1494.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1495" tvg-logo="http://epg.cdntv.online/img/1495.png" group-title="УКРАИНА", Ukraine World News
+#EXTGRP:УКРАИНА
+http://u.vipl.one/high/x9scda3iu7/1495.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1496" tvg-logo="http://epg.cdntv.online/img/1496.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Футбольный HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1496.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1497" tvg-logo="http://epg.cdntv.online/img/1497.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Хоккейный HD
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1497.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1498" tvg-logo="http://epg.cdntv.online/img/1498.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спорт ТВ", Спортивный
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1498.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1499" tvg-logo="http://epg.cdntv.online/img/1499.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI NETFLIX HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1499.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1500" tvg-logo="http://epg.cdntv.online/img/1500.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Millennium
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1500.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1501" tvg-logo="http://epg.cdntv.online/img/1501.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозал2", KLI Marvel HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1501.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1505" tvg-logo="http://epg.cdntv.online/img/1505.png" group-title="Кинозал2", Детективный
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1505.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1507" tvg-logo="http://epg.cdntv.online/img/1507.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Криминальное HD
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1507.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1511" tvg-logo="http://epg.cdntv.online/img/1511.png" group-title="Кинозал2", Твое ТВ Юмор
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1511.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1512" tvg-logo="http://epg.cdntv.online/img/1512.png" group-title="Кинозал2", Sky High Epoch HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1512.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1513" tvg-logo="http://epg.cdntv.online/img/1513.png" group-title="Кинозал2", Sky High Heroes HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1513.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1514" tvg-logo="http://epg.cdntv.online/img/1514.png" group-title="Кинозал2", Sky High Dance HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1514.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1515" tvg-logo="http://epg.cdntv.online/img/1515.png" group-title="Кинозал2", Sky High Spirit HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1515.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1516" tvg-logo="http://epg.cdntv.online/img/1516.png" group-title="Кинозал2", Sky High Fight HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1516.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1517" tvg-logo="http://epg.cdntv.online/img/1517.png" group-title="Кинозал2", Sky High Series HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1517.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1518" tvg-logo="http://epg.cdntv.online/img/1518.png" group-title="Кинозал2", Sky High Man HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1518.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1519" tvg-logo="http://epg.cdntv.online/img/1519.png" group-title="Кинозал2", Sky High Concert HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1519.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1520" tvg-logo="http://epg.cdntv.online/img/1520.png" group-title="Кинозал2", Sky High Fresh HDR HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1520.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1521" tvg-logo="http://epg.cdntv.online/img/1521.png" group-title="Кинозал2", Sky High Future HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1521.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1522" tvg-logo="http://epg.cdntv.online/img/1522.png" group-title="Кинозал2", Sky High Bunny HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1522.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1523" tvg-logo="http://epg.cdntv.online/img/1523.png" group-title="Кинозал2", Sky High Fresh HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1523.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1524" tvg-logo="http://epg.cdntv.online/img/1524.png" group-title="Кинозал2", Sky High Nature 4K
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1524.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1525" tvg-logo="http://epg.cdntv.online/img/1525.png" group-title="Кинозал2", Sky High 3D
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1525.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1526" tvg-logo="http://epg.cdntv.online/img/1526.png" group-title="Кинозал2", Sky High By Slonka
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1526.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1527" tvg-logo="http://epg.cdntv.online/img/1527.png" group-title="Кинозал2", Sky High Classic HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1527.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1528" tvg-logo="http://epg.cdntv.online/img/1528.png" group-title="Кинозал2", Sky High Nature HDR 4K
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1528.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1530" tvg-logo="http://epg.cdntv.online/img/1530.png" group-title="Кинозал2", Sky High Russian HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1530.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1531" tvg-logo="http://epg.cdntv.online/img/1531.png" group-title="Кинозал2", Sky High New 60
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1531.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1532" tvg-logo="http://epg.cdntv.online/img/1532.png" group-title="Кинозал2", Sky High Kids USSR
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1532.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1533" tvg-logo="http://epg.cdntv.online/img/1533.png" group-title="Кинозал2", Sky High Anime HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1533.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1534" tvg-logo="http://epg.cdntv.online/img/1534.png" group-title="Кинозал2", Sky High Mix 4K
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1534.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1535" tvg-logo="http://epg.cdntv.online/img/1535.png" group-title="Кинозал2", Sky High Doc UHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1535.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1536" tvg-logo="http://epg.cdntv.online/img/1536.png" group-title="Кинозал2", Sky High UHD HDR
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1536.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1537" tvg-logo="http://epg.cdntv.online/img/1537.png" group-title="Кинозал2", Sky High VHS UHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1537.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1538" tvg-logo="http://epg.cdntv.online/img/1538.png" group-title="Кинозал2", Sky High Doc HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1538.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1539" tvg-logo="http://epg.cdntv.online/img/1539.png" group-title="Кинозал2", Sky High Brain HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1539.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1540" tvg-logo="http://epg.cdntv.online/img/1540.png" group-title="Кинозал2", Sky High Nature FHD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1540.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1541" tvg-logo="http://epg.cdntv.online/img/1541.png" group-title="Кинозал2", Sky High Orig HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1541.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1542" tvg-logo="http://epg.cdntv.online/img/1542.png" group-title="Кинозал2", Sky High Standup HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1542.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1543" tvg-logo="http://epg.cdntv.online/img/1543.png" group-title="Кинозал2", Sky High LO FI HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1543.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1545" tvg-logo="http://epg.cdntv.online/img/1545.png" group-title="Кинозал2", MS Animated
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1545.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1546" tvg-logo="http://epg.cdntv.online/img/1546.png" group-title="Кинозал2", 1+1 kino
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1546.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1551" tvg-logo="http://epg.cdntv.online/img/1551.png" group-title="Кинозал2", Sky High Music HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1551.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1552" tvg-logo="http://epg.cdntv.online/img/1552.png" group-title="Кинозал2", MS Animated HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1552.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1553" tvg-logo="http://epg.cdntv.online/img/1553.png" group-title="Кинозал2", MS Crime HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1553.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1554" tvg-logo="http://epg.cdntv.online/img/1554.png" group-title="Кинозал2", MS Prisons HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1554.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1555" tvg-logo="http://epg.cdntv.online/img/1555.png" group-title="Кинозал2", MS Toons HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1555.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1556" tvg-logo="http://epg.cdntv.online/img/1556.png" group-title="Кинозал2", MS Young Blood HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1556.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1557" tvg-logo="http://epg.cdntv.online/img/1557.png" group-title="Кинозал2", MS Magic HD
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1557.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1558" tvg-logo="http://epg.cdntv.online/img/1558.png" group-title="Кинозал2", Clarity4K Netflix
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1558.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1559" tvg-logo="http://epg.cdntv.online/img/1559.png" group-title="Кинозал2", Clarity4K Кино СССР
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1559.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1560" tvg-logo="http://epg.cdntv.online/img/1560.png" group-title="Кинозал2", Clarity4K Приключения
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1560.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1561" tvg-logo="http://epg.cdntv.online/img/1561.png" group-title="Кинозал2", Clarity4K Ужасы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1561.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1562" tvg-logo="http://epg.cdntv.online/img/1562.png" group-title="Кинозал2", Clarity4K Фантастика
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1562.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1563" tvg-logo="http://epg.cdntv.online/img/1563.png" group-title="Кинозал2", Clarity4k Драмы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1563.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1564" tvg-logo="http://epg.cdntv.online/img/1564.png" group-title="Кинозал2", Clarity4k Русские сериалы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1564.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1565" tvg-logo="http://epg.cdntv.online/img/1565.png" group-title="Кинозал2", Clarity4k Классика кино
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1565.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1566" tvg-logo="http://epg.cdntv.online/img/1566.png" group-title="Кинозал2", Clarity4k Единоборства
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1566.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1567" tvg-logo="http://epg.cdntv.online/img/1567.png" group-title="Кинозал2", Clarity4K Семейный
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1567.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1568" tvg-logo="http://epg.cdntv.online/img/1568.png" group-title="Кинозал2", Clarity4K Travel blog
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1568.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1569" tvg-logo="http://epg.cdntv.online/img/1569.png" group-title="Кинозал2", Clarity4K Звериный мир
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1569.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1570" tvg-logo="http://epg.cdntv.online/img/1570.png" group-title="Кинозал2", Clarity4K КосмоМир
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1570.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1571" tvg-logo="http://epg.cdntv.online/img/1571.png" group-title="Кинозал2", Clarity4K Ужасы VHS
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1571.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1572" tvg-logo="http://epg.cdntv.online/img/1572.png" group-title="Кинозал2", Clarity4k КиноФраншизы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1572.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1573" tvg-logo="http://epg.cdntv.online/img/1573.png" group-title="Кинозал2", Clarity4K Комедия
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1573.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1574" tvg-logo="http://epg.cdntv.online/img/1574.png" group-title="Кинозал2", Clarity4k Боевик
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1574.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1575" tvg-logo="http://epg.cdntv.online/img/1575.png" group-title="Кинозал2", Clarity4K Фэнтези
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1575.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1576" tvg-logo="http://epg.cdntv.online/img/1576.png" group-title="Кинозал2", Clarity4K Walt Disney
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1576.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1577" tvg-logo="http://epg.cdntv.online/img/1577.png" group-title="Кинозал2", Clarity4K Мультимир
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1577.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1578" tvg-logo="http://epg.cdntv.online/img/1578.png" group-title="Общие", Первый туристический
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1578.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1580" tvg-logo="http://epg.cdntv.online/img/1580.png" group-title="Кинозал2", CineMan Криминальные сериалы
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1580.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1581" tvg-logo="http://epg.cdntv.online/img/1581.png" group-title="Кинозал2", CineMan Интерны
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1581.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1582" tvg-logo="http://epg.cdntv.online/img/1582.png" group-title="Кинозал2", CineMan Универ
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1582.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1583" tvg-logo="http://epg.cdntv.online/img/1583.png" group-title="Кинозал2", Clarity4K Комедия СССР 2
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1583.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1584" tvg-logo="http://epg.cdntv.online/img/1584.png" group-title="Кинозал2", Clarity4K Комедия СССР 1
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1584.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1585" tvg-logo="http://epg.cdntv.online/img/1585.png" group-title="Кинозал2", Clarity4k Боевик VHS
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1585.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1587" tvg-logo="http://epg.cdntv.online/img/1587.png" group-title="Кинозал2", Clarity4K UrbanBlack
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1587.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1588" tvg-logo="http://epg.cdntv.online/img/1588.png" group-title="Кинозал2", CineMan Фитнес
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1588.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1589" tvg-logo="http://epg.cdntv.online/img/1589.png" group-title="Кинозал2", Кинозал.ТВ
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1589.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1590" tvg-logo="http://epg.cdntv.online/img/1590.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", Советская киноклассика
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1590.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1613" tvg-logo="http://epg.cdntv.online/img/1613.png" group-title="Регионал", REAL TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1613.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1626" tvg-logo="http://epg.cdntv.online/img/1626.png" group-title="Регионал", SHOW PLUS
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1626.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1628" tvg-logo="http://epg.cdntv.online/img/1628.png" group-title="Регионал", AzadSozAz TV
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1628.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1629" tvg-logo="http://epg.cdntv.online/img/1629.png" group-title="Кинозал2", CineMan Relax 4K
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1629.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1641" tvg-logo="http://epg.cdntv.online/img/1641.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Общие", START Air
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1641.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1644" tvg-logo="http://epg.cdntv.online/img/1644.png" group-title="Кинозал2", ClarityHD FishingTV
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1644.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1646" tvg-logo="http://epg.cdntv.online/img/1646.png" group-title="Кинозал2", Clarity4K Remastered music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1646.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1647" tvg-logo="http://epg.cdntv.online/img/1647.png" group-title="Кинозал2", Clarity4K France music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1647.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1648" tvg-logo="http://epg.cdntv.online/img/1648.png" group-title="Кинозал2", Clarity4k Сумеречный Эфир
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1648.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1649" tvg-logo="http://epg.cdntv.online/img/1649.png" group-title="Кинозал2", Clarity4K Asia
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1649.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1650" tvg-logo="http://epg.cdntv.online/img/1650.png" group-title="Кинозал2", Clarity4K Galaxy Films
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1650.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1651" tvg-logo="http://epg.cdntv.online/img/1651.png" group-title="Кинозал2", Clarity4K Latin music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1651.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1652" tvg-logo="http://epg.cdntv.online/img/1652.png" group-title="Кинозал2", Clarity4K BluesString
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1652.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1653" tvg-logo="http://epg.cdntv.online/img/1653.png" group-title="Кинозал2", Clarity4K World Music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1653.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1655" tvg-logo="http://epg.cdntv.online/img/1655.png" group-title="Кинозал2", Clarity4K Ukrainian music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1655.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1656" tvg-logo="http://epg.cdntv.online/img/1656.png" group-title="Кинозал2", Clarity4K Korean music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1656.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1657" tvg-logo="http://epg.cdntv.online/img/1657.png" group-title="Кинозал2", Clarity4K Avto Blog
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1657.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1658" tvg-logo="http://epg.cdntv.online/img/1658.png" group-title="Кинозал2", Clarity4K Bollywood music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1658.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1659" tvg-logo="http://epg.cdntv.online/img/1659.png" group-title="Кинозал2", Clarity4K Russian music
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1659.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1660" tvg-logo="http://epg.cdntv.online/img/1660.png" group-title="Кинозал2", Clarity4k Anime
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1660.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1661" tvg-logo="http://epg.cdntv.online/img/1661.png" group-title="Кинозал2", Clarity4K Heavy metal
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1661.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1662" tvg-logo="http://epg.cdntv.online/img/1662.png" group-title="Кинозал2", Clarity4K КиноНовинки
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1662.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1663" tvg-logo="http://epg.cdntv.online/img/1663.png" group-title="Кинозал2", Clarity4K Киношарм
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1663.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1664" tvg-logo="http://epg.cdntv.online/img/1664.png" group-title="Кинозал2", Clarity4k Deep House
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1664.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1665" tvg-logo="http://epg.cdntv.online/img/1665.png" group-title="Кинозал2", Clarity4K Kинодети CССР
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1665.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1666" tvg-logo="http://epg.cdntv.online/img/1666.png" group-title="Кинозал2", Clarity4k DeepMe
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1666.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1667" tvg-logo="http://epg.cdntv.online/img/1667.png" group-title="Кинозал2", Clarity4K Запал
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1667.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1668" tvg-logo="http://epg.cdntv.online/img/1668.png" group-title="Кинозал2", Clarity4K RemasterWave
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1668.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1669" tvg-logo="http://epg.cdntv.online/img/1669.png" group-title="Кинозал2", Clarity4k Боевик (VHS)
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1669.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1670" tvg-logo="http://epg.cdntv.online/img/1670.png" group-title="Кинозал2", Clarity4K HBO series
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1670.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1671" tvg-logo="http://epg.cdntv.online/img/1671.png" group-title="Общие", Just TV
+#EXTGRP:Общие
+http://u.vipl.one/high/x9scda3iu7/1671.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1672" tvg-logo="http://epg.cdntv.online/img/1672.png" group-title="Регионал", 10 Канал (Мордовия)
+#EXTGRP:Регионал
+http://u.vipl.one/high/x9scda3iu7/1672.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1673" tvg-logo="http://epg.cdntv.online/img/1673.png" group-title="Кинозал2", Сити Эдем - КиноДетектив
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1673.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1674" tvg-logo="http://epg.cdntv.online/img/1674.png" group-title="Кинозал2", Сити Эдем - КиноКомедия
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1674.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1675" tvg-logo="http://epg.cdntv.online/img/1675.png" group-title="Кинозал2", Сити Эдем - КиноЭкшен
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1675.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="1676" tvg-logo="http://epg.cdntv.online/img/1676.png" group-title="Кинозал2", Сити Эдем - КиноМистика
+#EXTGRP:Кинозал2
+http://u.vipl.one/high/x9scda3iu7/1676.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102

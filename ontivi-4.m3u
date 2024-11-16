@@ -1,0 +1,1163 @@
+#EXTM3U
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="sts",СТС
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/12
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="sts-love",СТС Love
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/17
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="ntv-nashekino",Родное кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="nashe-novoe",Наше новое кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="domkino",Дом кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="hd-kino",Киносемья
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/69
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="ntv-kinoklub",Киносвидание
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/118
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kinohit",Кинохит
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="amedia1",Amedia 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/70
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="amedia-hit",Amedia Hit
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="rus-roman",Русский Роман
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/91
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="rus-bestseller",Русский бестселлер
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/120
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="illuzion",Русский иллюзион
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/98
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="illuzion+",Иллюзион +
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/88
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="home",Домашний HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37549
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="tv1000_rus",TV1000 Русское кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1473
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="tv1000",TV 1000
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1471
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="tv1000-action",TV 1000 Action
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1472
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="axn",Sci-Fi
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/111
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="sony-turbo",Black
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/112
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="tv3",ТВ-3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv21",TV XXI
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/13
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="indiya",Индийское кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/84
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="domkino-prem",Дом Кино Премиум HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/127
+#EXTINF:-1 timeshift="0" group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11052
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="ntv-serial",НТВ Сериал
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11087
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="ntv-hit",НТВ Хит
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11088
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="komediya-vgtrk",Русская комедия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11093
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="esp",Eurosport 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/22
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="esp2",Eurosport 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="rus-detective",Русский детектив
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/66
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="mult",Мульт
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="kxl",КХЛ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1477
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="avto-plus",Авто плюс
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/56
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="xsport",Xsport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18009
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="russkij-extreme",Русский экстрим HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1657
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="boxtv",Бокс ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11092
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="euro",Euronews English
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/96
+#EXTINF:-1 timeshift="1" group-title="Новостные" tvg-id="vesti",Россия 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/6
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="rbk",РБК
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38
+#EXTINF:-1 timeshift="3" group-title="Новостные" tvg-id="dozhd",Дождь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="news24",24 Канал
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/119
+#EXTINF:-1 timeshift="8" group-title="Развлечения" tvg-id="chetv",Че
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/8
+#EXTINF:-1 timeshift="8" group-title="Развлечения" tvg-id="tnt4",ТНТ4
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="sarafan",Сарафан
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="2p2",2x2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="eda",Еда
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/93
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/901
+#EXTINF:-1 timeshift="8" group-title="Развлечения" tvg-id="bober",Бобер
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/126
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="park-razvlecheniy",Cinema
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/20
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="kuhnya",Кухня ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83
+#EXTINF:-1 timeshift="8" group-title="Развлечения" tvg-id="super",Суббота
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11086
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mtv-eu",MTV Music
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/107
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="vh1-europe",MTV 00s
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/104
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="muzika1",Музыка Первого
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/81
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="rutv",RU TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/87
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="europa-plus",Europa Plus TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/86
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="muztv",Ю-ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="shansontv",Шансон-ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/80
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="epg_dummy",Kronehit HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51065
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mezzo-hd",Mezzo Live HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11011
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="animal_rus",Animal Planet
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="discov_turbo-extra",DTX
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="discov_sci",Discovery Science
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="da_vinci-rus",Da Vinci
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/85
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="natgeowild",Nat Geo Wild
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/95
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="24texno",Техно 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/82
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/90
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="tlc-russia",TLC
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/902
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="explorer-rus",Viasat Explore
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1474
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="history",Viasat History
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1475
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="viasat-nature",Viasat Nature
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1476
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="nauka",Наука 2.0
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/50
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="istoria",История
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="id-extra",Investigation Discovery
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/94
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="natgeo",National Geographic
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="dikij",Дикий
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="discov_rus",Discovery Channel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="usadba",Усадьба
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/123
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="retro",Ретро
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11215
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="drive",Драйв
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11204
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="dikaya-oxota",Дикая Охота HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18027
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="dikaya-rybalka",Дикая Рыбалка HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18028
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="galaxy",Galaxy
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18030
+#EXTINF:-1 timeshift="2" group-title="Познавательные" tvg-id="dialogi-fishing",Диалоги о рыбалке
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18031
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="ohotnik-i-rybolov-hd",Охотник и рыболов HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1658
+#EXTINF:-1 timeshift="0" group-title="Общие" tvg-id="otr",ОТР
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/906
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="fox-hd",Fox HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52276
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="fox-life-hd",Fox Life HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26384
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="man-kino",Мужское Кино HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45342
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinokomediya",Кинокомедия HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48332
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kino-plus",Киномикс HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42846
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="mnogo-tv",Киносерия HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27639
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="nashe-novoe",Наше Новое Кино HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31650
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="tiji",Tiji
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/77
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="gulli",Gulli Girl
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/78
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="jimjam",JimJam
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/79
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="cartoon",Cartoon Network
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/30
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="nickelodeon-rus",Nickelodeon
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="nick-jr",Nick Jr.
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="karusel",Карусель
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/9
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="vgus",В гостях у сказки
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/105
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="multimuzyka",Мультимузыка
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11089
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="mir-seriala",Мир сериала
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42
+#EXTINF:-1 timeshift="3" group-title="Региональные" tvg-id="TVPolonia.pl",TVP Polonia
+https://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="ntv",НТВ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/605
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="tnt",ТНТ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/606
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="kxl-hd",КХЛ Prime
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1663
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mtvlive-hd",MTV Live HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/607
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="discov_rus-hd",Discovery Channel HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2005
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="natgeo_hd",National Geographic HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2007
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="sts",СТС HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62288
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="wild-hd",Nat Geo Wild HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2004
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="ntv-premiera",Кинопремьера
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/600
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="amedia-hd",Amedia Premium HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/601
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000-premium-hd",ViP Premiere HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000-megahit-hd",ViP Megahit HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2002
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="tv1000-comedy-hd",ViP Comedy HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="animal-family-hd",В мире животных HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1659
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="puteshestviya",Приключения HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1665
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="eureka-hd",Космический HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1669
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kinopokaz-hd1",Шокирующее HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1666
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kinopokaz-hd2",Комедийное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1667
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kinopremium-hd",Премиальное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1660
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="ostrsuszet-hd",Остросюжетное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1661
+#EXTINF:-1 timeshift="8" group-title="Сериалы" tvg-id="nashe-hd",Душевное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1662
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="semeinoe-hd",Наше Крутое HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1664
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="rentv",РЕН ТВ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/125
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="man-kino",Мужское кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11167
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="kvn-tv",КВН ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11168
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="eda-hd",Еда Приемиум HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42090
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kino-tv",Кино ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/14210
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="vh-1-classic",MTV 80s
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47872
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="ARD.de",Das Erste
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151606
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="ZDF.de",ZDF
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151611
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="SuperRTL.de",Super RTL DE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151623
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="RTL.de",RTL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151624
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="RTL2.de",RTL II
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151625
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="RTLNitro.de",RTL Nitro
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151626
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Pro7.de",ProSieben
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151641
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="ProSiebenMaxx.de",ProSieben Maxx
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151642
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Sat1.de",Sat.1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151643
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Sat1Gold.de",Sat1 Gold
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151644
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Sixx.de",sixx
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151634
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Vox.de",VOX
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151627
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Kabel.de",kabel eins
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151645
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Tele5.de",TELE 5
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151638
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="DMax.de",DMAX
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151639
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="disneychannel.de",Disney Channel DE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151635
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="Nick.de",Nick DE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151616
+#EXTINF:-1 timeshift="0" group-title="Deutschland" tvg-id="Kika.de",KIKA DE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151612
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="WELT.de",Welt
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151646
+#EXTINF:-1 timeshift="3" group-title="Deutschland" tvg-id="ntv.de",n-tv
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/151628
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="rtrpl",РТР-Планета
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48
+#EXTINF:-1 timeshift="0" group-title="Deutschland" tvg-id="ORF1.at",ORF eins
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/141513
+#EXTINF:-1 timeshift="0" group-title="Deutschland" tvg-id="ORF2.at",ORF 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/141579
+#EXTINF:-1 timeshift="0" group-title="Deutschland" tvg-id="ATV.de",ATV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/141531
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="ntvmir",НТВ Мир
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/30275
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="HistoryHD.ru",History HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45221
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="ohota-i-rybalka",Охота и Рыбалка
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43737
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="zvezda-plus",Звезда Плюс
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59301
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="setanta-sport-ua",Setanta Sports Ukraine
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63945
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="setanta-sport-ua-plus",Setanta Sports Ukraine +
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/30727
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sport1",Sport 1 UA
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/74904
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sport2",Sport 2 UA
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/81695
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="TVPlaySports.lt",TV3 Sport LT HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/71645
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="splius-lt",LRT Plius
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63786
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="Filmzone.blt",FilmZone HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19510
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="FilmzonePlus.blt",FilmZone+ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19521
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="TV1000Premium.lv",TV3 Film HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/95174
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="Smartzone.lv",SmartZone HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19537
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="tv1-lt",TV1 Lithuania HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19568
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="lnk-lt",LNK HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19584
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="baltijos-lt",BTV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19574
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="lrt",LRT HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19557
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="lrtkult",LRT Plius HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19562
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="tv3-lt",TV3 Lithuania HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19582
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="tv6-lt",TV6 Lithuania HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19563
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="tv8-lt",TV8 Lithuania HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19576
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="rytas-lt",Lietuvos rytas TV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19591
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="info-tv",Info TV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19583
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="sport1-lt",Sport 1 LT HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/76911
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="TVPlaySportsPlus.lt",TV3 Sport 2 LT HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/73759
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="belsat",Белсат ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19512
+#EXTINF:-1 timeshift="0" group-title="Moldova" tvg-id="",Norok TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25734
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="",НТВ Молдова
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45847
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="sts",СТС FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52934
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="home",Домашний FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29830
+#EXTINF:-1 timeshift="0" group-title="Deutschland" tvg-id="tagesschau24.de",Tagesschau 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/23752
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="365dney",365 дней ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51060
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="zvezda",Звезда FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34261
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="ort-hd",Первый Канал FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35985
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="rossiya-hd",Россия 1 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37562
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="ntv",НТВ FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49336
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="setanta-sport",Setanta Sports 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45141
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="setanta-sport-plus",Setanta Sports 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63626
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="Nicktoons.no",Nicktoons
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61346
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="eumusic",EU Music
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/89226
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="balt-tv",Balticum
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/85489
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="balt-auks",Balticum Auksinis
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/75053
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="zagorodny",Загородный
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45729
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="fight-box-hd",FightBox HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/84249
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="zvezda",Звезда HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53892
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="belarus1",Беларусь 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58639
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="belarus2",Беларусь 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/73193
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="belarus3",Беларусь 3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83653
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="bel24",Беларусь 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/68147
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="belarus5",Беларусь 5
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/82294
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="pobeda",Победа
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/88762
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="ort+4",Первый Канал  (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/95082
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="rossiya+4",Россия 1 (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65723
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="ntv4",НТВ (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/86461
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="tnt+4",ТНТ (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/69337
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="izvestia",Известия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92962
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="history2-rus",H2  HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47392
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ufc",Удар ТВ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/84449
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="4evermusic",4ever music HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/40853
+#EXTINF:-1 timeshift="8" group-title="Развлечения" tvg-id="pyatnica",Пятница HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19318
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="tv3",ТВ-3 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/22285
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="poehali",Поехали! HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31962
+#EXTINF:-1 timeshift="8" group-title="Общие" tvg-id="tnt",ТНТ FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27934
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="hollywood",Hollywood
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35439
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="malish",СуперГерои
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/40091
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="romantichnoe",Романтичное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39446
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="nashe-lubimoe",Любимое HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31421
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000_rus_int",TV1000 World kino
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54329
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="hd-life",HDL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37631
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="info-tv",Info TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43216
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinosat",Киносат
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/21653
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinopokaz",Кинопоказ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/17543
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="current-time",Настоящее время HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/14865
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="ntv-pravo",НТВ Право
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35217
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="ntv-style",НТВ Стиль
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36494
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48359
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="arsenal",Арсенал
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53218
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000-action",TV 1000 Action HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28397
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000",TV 1000 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46287
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="tv1000_rus",TV 1000 Русское кино HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/57294
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="ntv-kinoklub",Киносвидание HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42717
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="hd-kino",Киносемья HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58257
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinohit",Кинохит HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28469
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="blokbaster",Блокбастер HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61727
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kamedi",Камеди HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35481
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="pro-lyubov",Про Любовь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32849
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="nash-kinopokaz",Наш Кинопоказ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27483
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="nashe-muzhskoe",Наше мужское HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32951
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="khit",Хит HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46927
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="TV6.ee",TV6 Estonia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38753
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="tht4",ТНТ4 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52945
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="super",Суббота HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43562
+#EXTINF:-1 timeshift="0" group-title="Lietuva" tvg-id="TavoTV.lt",Tavo TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53845
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="tv7-lt",TV7 LT
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/23671
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="PlayTV.lt",Init Play TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46643
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="tvcen",ТВЦ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38572
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="zvezda-plus",Звeздa Плюc  HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53287
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="ryzhij",Рыжий
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54383
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="JurnalTV.ro",Jurnal TV Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32652
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-cccp",Dosug TV СССР
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16010
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",Moldova 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33286
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",Moldova 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34723
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",Canal 2 Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48329
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",Canal 3 Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26285
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",Prime Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42963
+#EXTINF:-1 timeshift="0" group-title="Moldova" tvg-id="PROTV.ro",Pro TV HD MD/RO
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42843
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-russian",Dosug TV Russian
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16037
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="TVRMoldova.ro",TVR Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39372
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="epg_dummy",TV8 Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25724
+#EXTINF:-1 timeshift="0" group-title="DosugTV" tvg-id="dosug-tv-svaty",Dosug TV Сваты
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16033
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="",N4 Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51863
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-marvel",Dosug TV Marvel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16046
+#EXTINF:-1 timeshift="0" group-title="Moldova" tvg-id="",Orhei TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/41875
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="",TVC 21
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28735
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-history",Dosug TV History
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16045
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="XX32748",10 TV Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32748
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-serial",Dosug TV Сериал
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16036
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="Publika.ro",Publika TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44693
+#EXTINF:-1 timeshift="0" group-title="Moldova" tvg-id="",Zonam TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52936
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="ort+4",Первый Канал (+4) FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64532
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="ort+6",Первый Канал (+6)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53846
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="rossiya+6",Россия 1 (+6)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36942
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="ntv7",НТВ (+7)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48372
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="tnt7",ТНТ (+7)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37462
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="sts4",СТС (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/21498
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="sts7",СТС (+7)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25739
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="pyatnica6",Пятница! (+6)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/17259
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="tv3_4",ТВ-3 (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36205
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="rentv4",РЕН ТВ (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34820
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="home4",Домашний (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29573
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="piter+4",Пятый канал (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39945
+#EXTINF:-1 timeshift="1" group-title="Общие" tvg-id="tvc4",ТВЦ (+4)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45263
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="NBATVHD.ca",NBA TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58732
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="voprosy-i-otvety",Вопросы и ответы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38457
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-hit",Dosug TV HIT
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16030
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-comedy",Dosug TV Comedy
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16024
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-horror",Dosug TV Horror
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16032
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-fantastic",Dosug TV Fantastic
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16034
+#EXTINF:-1 timeshift="0" group-title="DosugTV" tvg-id="dosug-tv-kids",Dosug TV Kids
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16042
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-vhs",Dosug TV VHS
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16021
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-walking-dead",Dosug TV Ходячие Мертвецы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16048
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="lyubimoe-kino",Наше любимое кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34283
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="kino-plus",Киномикс
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/97
+#EXTINF:-1 timeshift="8" group-title="Кино" tvg-id="mnogo-tv",Киносерия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36520
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinokomediya",Кинокомедия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25492
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="amedia2",Amedia 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25386
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="vip-serial",VIP Serial HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/76679
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="uhd-cinema",ULTRAHD CINEMA HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27152
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="set",RED
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/12760
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinouzhas",Киноужас
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36858
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kinouzhas",Киноужас HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34752
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="strashnoe-hd",Страшное HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51061
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="kino-tv",Кино ТВ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63972
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="fox-crime",Fox
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/41
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="fox-life",Fox Life
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/40
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="film-box",Filmbox
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/81943
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="film-box-arthouse",FilmBox ArtHouse
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63431
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="den-pobedy",День Победы HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19515
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="star-cinema",Star Cinema
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63879
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="star-family",Star Family
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/78290
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="evrokino",Еврокино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31738
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="nstv",Настоящее Страшное Телевидение
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/93594
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="set-hd",RED HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48273
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="egoist",Shot TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/84903
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="bolt",Bolt RU
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/74630
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="",Bolt UA
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27303
+#EXTINF:-1 timeshift="0" group-title="Кино" tvg-id="dorama",Дорама
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11083
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="fenix+kino",Феникс + Кино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/67781
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="trashtv",Trash HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33428
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19640
+#EXTINF:-1 timeshift="3" group-title="Сериалы" tvg-id="rus-roman",Русский роман HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27947
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="mgm-int",AMC
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29428
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="vremya",Время далекое и близкое
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54938
+#EXTINF:-1 timeshift="0" group-title="Кино" tvg-id="plan-b",Plan_B
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53962
+#EXTINF:-1 timeshift="3" group-title="Кино" tvg-id="flixsnip",FlixShip
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53645
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="Muzhskoj.ru",Мужской
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33482
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="anekdottv",Анекдот ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36392
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="food-network-rus",Food Network
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32431
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="fashiontv-ru",Fashion HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/68441
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="game-show",E TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43988
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="",Твое ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34692
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="gags-network",Gags Network
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38871
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="tancuj",Танцуй
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37456
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="teatr",Театр
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36742
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="1hdru",1 Music HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/86275
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="tnt-music",ТНТ Music
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/79469
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="muz-tv",Муз ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45857
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="zhara",Жара
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/80708
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="",Жара Kids TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49345
+#EXTINF:-1 timeshift="3" group-title="Музыкальные" tvg-id="aiva",Aiva HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/94490
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="9volna",9 Волна
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37652
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="bridge",Bridge TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/94874
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="topsong",Bridge TV Classic
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/23884
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="rusong",Bridge TV Русский Хит
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/80544
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="bridge-hd",Bridge TV Deluxe
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/87173
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="dange",Bridge Hits
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52987
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="shlyager",Bridge TV Шлягер
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36729
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="bridge-fresh",Bridge TV Фрэш
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45328
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mb-russia",Russian MusicBox
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32769
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="musicbox",MUSICBOX GOLD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29481
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="MTVHits.uk",MTV Hits
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/90315
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mtv-dance",Club MTV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38926
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="mcm-top",MCM Top
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92413
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="lya-minor",Ля Минор. Мой музыкальный
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29429
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="",Первый Музыкальный HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48821
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="europa-plus",EuropaPlus HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48127
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="rutv",RU.TV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/30738
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="iconcerts_hd",Stingray iConcerts HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52264
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="",Страна ФМ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62391
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="MusicChannel.hu",1Music Channel Hungary
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43427
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="4fun.pl",4FUN
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64235
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="inrating",InRating HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53828
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="c-music",Stingray Cmusic HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92319
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="",Viva Россия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28773
+#EXTINF:-1 timeshift="0" group-title="Музыкальные" tvg-id="",Eurodance
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48447
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="rbk",РБК HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31984
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="euro",Euronews Россия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39112
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="bbc-world",BBC World News
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1014
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="cnn",CNN
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/108
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="BloombergTVHD.us",Bloomberg
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53748
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="Al-JazeeraEnglish.net",Al Jazeera English
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62985
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="rt-doc-rus",RTД
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42085
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="france24",France 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43729
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="mir24",Мир 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43298
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="360-news",360 Новости
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/77413
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="moskva24",Mocквa  24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29572
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="mir24",Мир 24 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28873
+#EXTINF:-1 timeshift="0" group-title="Новостные" tvg-id="RussiaToday.uk",RT News
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39231
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="disney",Канал Disney
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="multimania",Мультиландия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/603
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="NickJunior.uk",Nick Jr. LV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47840
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="sts-kids",СТС Kids
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/76387
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="ani",Ani
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35285
+#EXTINF:-1 timeshift="3" group-title="Детские" tvg-id="boomerang",Boomerang
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/94389
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="kapitan-hd",Капитан Фантастика
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39876
+#EXTINF:-1 timeshift="0" group-title="Детские" tvg-id="det",Детский Мир
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29984
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="Investigation.uk",Investigation Discovery HD CEE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51073
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="tlc-russia-hd",TLC HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38231
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="travel-hd",Travel channel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43872
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="travel-adv-hd",Travel+Adventure
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44662
+#EXTINF:-1 timeshift="8" group-title="Познавательные" tvg-id="history-rus",History
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/116
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="oruszie",Оружие
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51062
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="soyuz",Союз
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/78716
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="spas",СПАС
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/110
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="cnl-ukraine",CNL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65632
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="big-asia",Большая Азия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25699
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-new",Dosug TV New
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16053
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="living-planet",Живая планета
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="wildnature-hd",Живая природа HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18029
+#EXTINF:-1 timeshift="0" group-title="Развлечения" tvg-id="24dok",Доктор
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/55
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="sov-sek",Совершенно секретно
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/89
+#EXTINF:-1 timeshift="3" group-title="Познавательные" tvg-id="rtgtv",RTG
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/117
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="nautical",Моя стихия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32947
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="mir",МИР HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61863
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="kto-est-kto",Кто есть кто
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49351
+#EXTINF:-1 timeshift="0" group-title="Познавательные" tvg-id="nano",Нано HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19502
+#EXTINF:-1 timeshift="3" group-title="Развлечения" tvg-id="hgtv",HGTV Home and Garden HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48389
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="esp",Eurosport 1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49935
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="esp2",Eurosport 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32273
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="match",Матч! HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/5
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="match",Матч! FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45327
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="sport1_rus",Матч! Арена HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/21
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sport1_rus",Матч! Арена FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63425
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="sport2_rus",Матч! Игра HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sport2_rus",Матч! Игра FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36548
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="ntv-nashfootball",Матч! Премьер HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58793
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ntv-nashfootball",Матч! Премьер FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26385
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="sport-plus",Матч! Страна
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ntv-sport",Матч! Планета
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34117
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="boec",Матч! Боец
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/60
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sport-plus",Матч! Страна HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26338
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="boec",Матч! Боец HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54482
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="ntv-football-1",Матч! Футбол 1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52846
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ntv-football-1",Матч! Футбол 1 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44628
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="setanta-sport-kz",Setanta Sport Qazaqstan
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29837
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="ntv-football-2",Матч! Футбол 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35647
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ntv-football-2",Матч! Футбол 2 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61663
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="ntv-football-3",Матч! Футбол 3 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48756
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="ntv-football-3",Матч! Футбол 3 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38742
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="futbol",Футбол
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54987
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="start",Старт
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48630
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="kxl",КХЛ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49899
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="epg_dummy",Хоккейный HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/57364
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="sportivny",Спортивный HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63742
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="footbolny",Футбольный HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37738
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="m1-global",MMA TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/86324
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/72876
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52938
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="motorsport",Моторспорт.ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62184
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="konnyj-mir",Конный мир
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53423
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="CanalplusSports.pl",Canal Plus Sport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33662
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="CanalplusSport2.pl",Canal Plus Sport 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/55352
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="CanalPlusSport3.pl",Canal Plus Sport 3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63534
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="CanalPlusSport4.pl",Canal Plus Sport 4
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47762
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="PolsatSport.pl",Polsat Sport HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52243
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="PolsatSportExtra.pl",Polsat Sport Extra HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43228
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="nsport.pl",Canal Plus Sport 5
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47723
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="GolfChannel.pl",Golf Channel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26781
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="TVPSport.pl",TVP Sport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27360
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="SportKlub.pl",Sport Klub
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36283
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="Motowizja.pl",Motowizja TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64752
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="futbol-ukr",Футбол 1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28745
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="futbol-plus",Футбол 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32906
+#EXTINF:-1 timeshift="8" group-title="Спортивные" tvg-id="futbol3-ukr",Футбол 3 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46396
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="futbol-ukr",Футбол 1 SD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29954
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="futbol-plus",Футбол 2 SD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53945
+#EXTINF:-1 timeshift="3" group-title="Спортивные" tvg-id="futbol3-ukr",Футбол 3 SD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48361
+#EXTINF:-1 timeshift="3" group-title="Общие" tvg-id="ortint",Первый Канал Европа
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28744
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="",TV4 Latvia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19956
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="",8TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47184
+#EXTINF:-1 timeshift="3" group-title="Новостные" tvg-id="current-time",Настоящее время
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/41842
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="Nickelodeon.blt",Nickelodeon LV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65872
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="KidZone.ee",Kidzone LV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19945
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="ltv1-lat",LTV1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63520
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="ltv7-lat",LTV7 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36273
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="tv3-lat",TV3 Latvia FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63234
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="lnt-lat",TV3 Life FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54829
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="kanals2-lat",TV3 Mini FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53724
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="tv6-lat",TV6 Latvia FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39547
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="3_plus",TV3 Plus Latvia FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28452
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="TVPlaySports.lv",TV3 Sport LV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43626
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="TVPlaySportsPlus.lv",TV3 Sport 2 LV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25983
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="TV3SportOpen.lt",TV3 Sport Open LV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63984
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="balt-plat-lt",Balticum Platinum HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19587
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="ltv-world",LRT Lituanica HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63842
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="Kidzone.blt",Kidzone LT
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/70314
+#EXTINF:-1 timeshift="0" group-title="Lietuva" tvg-id="LoloTV.lt",Lolo TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19535
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="ETV.ee",ETV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45892
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="ETV2.ee",ETV 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53893
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="ETVPlus.ee",ETV Plus
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28457
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="tv3-est",TV3 Estonia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45274
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="Kanal2.ee",Kanal 2 Estonia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32342
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="Kanal11.ee",DUO 4 EE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34521
+#EXTINF:-1 timeshift="3" group-title="Eesti" tvg-id="Kanal12.ee",Duo 5 EE
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/23481
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="TVPlaySports.lv",TV3 Sport  LV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38745
+#EXTINF:-1 timeshift="3" group-title="Latvija" tvg-id="TVPlaySportsPlus.lv",TV3 Sport 2 LV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36634
+#EXTINF:-1 timeshift="3" group-title="Lietuva" tvg-id="TV3SportOpen.lt",TV3 Sport Open LT
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58395
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="ont",ОНТ Беларусь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19446
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="ctv",СТВ Беларусь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44374
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="btb",ВТВ Беларусь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42384
+#EXTINF:-1 timeshift="3" group-title="Беларусь" tvg-id="8channel",8 Канал Беларусь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43654
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="Channel11.il",Channel 11 IL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64974
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="Channel12.il",Channel 12 IL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62008
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="Channel13.il",Channel 13 IL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59355
+#EXTINF:-1 timeshift="2" group-title="Moldova" tvg-id="",Primul Moldova
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54995
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVPHD.pl",TVP
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46732
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVP1.pl",TVP1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63482
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVP2.pl",TVP2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35691
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVP3Warszawa.pl",TVP3 Warszawa
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43723
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="",TVP3 Info
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53745
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVPHistoria.pl",TVP Historia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62975
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="Polsat1.pl",Polsat HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34981
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="Polsat2.pl",Polsat 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65391
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="PolsatNews.pl",Polsat News
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48196
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="PolsatNews2.pl",Polsat News 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47374
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVN.pl",TVN
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54723
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVN24.pl",TVN 24
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64924
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="KinoPolskaInt.pl",Kino Polska
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46993
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVN7.pl",TVN 7
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38462
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="",TVN24 BiS HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58326
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="13Ulica.pl",13 Ulica HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27843
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="AleKino.pl",Ale Kino!
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36472
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TNTPolska.pl",TNT Polska
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47376
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="HBO.pl",HBO HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53629
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="HBO2.pl",HBO2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49923
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="HBO3.pl",HBO3 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63521
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="PolsatCafe.pl",Polsat Cafe HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47208
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TV4.pl",TV4 Poland
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43619
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TV6.pl",TV6 Poland
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/69885
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVPuls2.pl",Puls 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36629
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TTV.PL",TTV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/57238
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVPInfo.pl",TVP Info
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47345
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVNTurbo.pl",TVN Turbo
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47826
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="TVNFabula.pl",TVN Fabula
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37824
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="ExtremeSports.pl",Extreme Sports
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35983
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="armenia-tv",Армения ТВ
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/121
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="PublicTelevisionArmenia.bg",Public TV of Armenia
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59382
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="nostalgia",Ностальгия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64792
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="PolsatFilm.pl",Polsat Film
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47382
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="FilmboxAction.pl",FilmBox Action
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37547
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="FilmboxExtra.pl",FilmBox Extra
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39235
+#EXTINF:-1 timeshift="0" group-title="Региональные" tvg-id="FilmboxPremium.pl",FilmBox Premium
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61927
+#EXTINF:-1 timeshift="0" group-title="Спортивные" tvg-id="Golfplus.fr",Golf+
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38724
+#EXTINF:-1 timeshift="1" group-title="Кинозалы" tvg-id="epg_dummy",Premiere HD 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33691
+#EXTINF:-1 timeshift="1" group-title="Кинозалы" tvg-id="epg_dummy",Premiere HD 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29539
+#EXTINF:-1 timeshift="1" group-title="Кинозалы" tvg-id="epg_dummy",Premiere HD 3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47394
+#EXTINF:-1 timeshift="1" group-title="Кинозалы" tvg-id="epg_dummy",Premiere HD 4
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52961
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="kinojam1",Киноджем 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34725
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="kinojam2",Киноджем 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27593
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-skoraya-pomozh",Dosug TV Скорая помощь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16054
+#EXTINF:-1 timeshift="2" group-title="DosugTV" tvg-id="dosug-tv-tect",Dosug TV (Тест)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16052
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="premiere-hd",Premiere HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19550
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="premium-hd",Premium HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19547
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="thriller-hd",Thriller HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19677
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="rukino-hd",РуКино HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19549
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="paradise-hd",Paradise HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19551
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="serial-hd",Serial HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64127
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="paradox-hd",Paradox HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47349
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="victory-hd",Victory HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65234
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="ussr-premieregroup",USSR
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47342
+#EXTINF:-1 timeshift="2" group-title="Кинозалы" tvg-id="vhshd",VHS HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34745
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cartoons-90",Cartoons 90
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65342
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cartoons-short",Cartoons Short
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33741
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-thesimps",CineMan Симпсоны
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58845
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cartoons-big",Cartoons Big
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32851
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman",CineMan
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53382
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-action",Cineman Action
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63846
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-disasters",Cineman Катастрофы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53874
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-top",CineMan Top
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29842
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-thriller",CineMan Thriller
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45284
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-marvel",CineMan Marvel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47931
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-melodrama",Cineman Мелодрама
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35582
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-vhs",CineMan VHS
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59429
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-rukino",CineMan РуКино
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27445
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-uzhasy",CineMan Ужасы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47298
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-comedy",CineMan Комедия
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64557
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-svaty",CineMan Сваты
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62337
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-PES",CineMan Пес
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28488
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-forester",CineMan Лесник
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37746
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-ER",CineMan Скорая Помощь
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/56632
+#EXTINF:-1 timeshift="3" group-title="Кинозалы" tvg-id="cineman-MW",CineMan Ментовские войны
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45271
