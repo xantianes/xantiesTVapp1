@@ -1,0 +1,352 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="7",.black
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/708/index.m3u8
+#EXTINF:0 tvg-rec="7",.red
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/559/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2062/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/556/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/555/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/5051/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/16021/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/557/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/132/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/131/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/11120/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/11121/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10052/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13089/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10087/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Оскар
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/11122/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10051/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13087/index.m3u8
+#EXTINF:0 tvg-rec="7",Кино ТВ
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/732/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7249/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2121/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7250/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/726/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7247/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV 90s
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/1038/index.m3u8
+#EXTINF:0 tvg-rec="7",Шансон ТВ
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/859/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Шлягер
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10038/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH CONCERT HD
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/14241/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Rock
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15517/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Шансон
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15519/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Best Live Performances
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/16003/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Live HD
+#EXTGRP:музыка
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/221/index.m3u8
+#EXTINF:0 tvg-rec="7",Outdoor Channel
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/119/index.m3u8
+#EXTINF:0 tvg-rec="7",Моя Планета
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/117/index.m3u8
+#EXTINF:0 tvg-rec="7",Nat Geo Wild
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/133/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Science
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/136/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/137/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/140/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Nature
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/161/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/162/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Explore
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/163/index.m3u8
+#EXTINF:0 tvg-rec="7",Ocean TV
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/703/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel+Adventure
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/850/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2087/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2101/index.m3u8
+#EXTINF:0 tvg-rec="0",Univer TV HD
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15113/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju Nature HD
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15225/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Авто
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Путешествия
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/15515/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:познавательные
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/16026/index.m3u8
+#EXTINF:0 tvg-rec="7",Nick Jr
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/114/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/541/index.m3u8
+#EXTINF:0 tvg-rec="7",Детский мир
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/543/index.m3u8
+#EXTINF:0 tvg-rec="7",Jim Jam
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/138/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon Network
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/156/index.m3u8
+#EXTINF:0 tvg-rec="7",Ani
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/129/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/909/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия
+#EXTGRP:детские
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/5055/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/204/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6010/index.m3u8
+#EXTINF:0 tvg-rec="0",BAND SPORTS HD BR
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6157/index.m3u8
+#EXTINF:0 tvg-rec="3",Мы
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6001/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Tennis HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6079/index.m3u8
+#EXTINF:0 tvg-rec="3",TENNIS HD US
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6096/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/202/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/200/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/201/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/203/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/209/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/218/index.m3u8
+#EXTINF:0 tvg-rec="7",HDL
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/226/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/227/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/229/index.m3u8
+#EXTINF:0 tvg-rec="7",TERRA
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/230/index.m3u8
+#EXTINF:0 tvg-rec="7",TLC HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/232/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel Channel HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/233/index.m3u8
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/904/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6303/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедийное HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/912/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/237/index.m3u8
+#EXTINF:0 tvg-rec="7",DTX HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2006/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2024/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2097/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/5031/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/5033/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/5053/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2430/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2436/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6386/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6387/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужское Кино HD
+#EXTGRP:HD
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/10045/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/506/index.m3u8
+#EXTINF:0 tvg-rec="7",Суббота
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/826/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/502/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятница!
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/503/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/128/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV Canada CA
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6491/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV HD US
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/7226/index.m3u8
+#EXTINF:0 tvg-rec="0",VF test 2
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/31462/index.m3u8
+#EXTINF:0 tvg-rec="0",VF test 1
+#EXTGRP:мой
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/31461/index.m3u8
